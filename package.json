@@ -1,0 +1,11 @@
+{
+  "name": "don-coqui-hospitality-lite",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": "24.x" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/verify.mjs && node scripts/verify-vercel.mjs"
+  }
+}

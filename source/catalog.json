@@ -1,0 +1,2528 @@
+[
+  {
+    "id": "food-guacamole",
+    "name": "Guacamole",
+    "kind": "food",
+    "category": "Starters",
+    "page": 1,
+    "description": "Mashed ripe avocado with red onion, deseeded tomato, cilantro and lime. Served with plantain, yuca, tortilla and malanga chips; topped with pico de gallo (white onion, tomato, cilantro, lime juice and olive oil).",
+    "ingredients": [
+      "Avocado",
+      "Red onion",
+      "Tomato",
+      "Cilantro",
+      "Lime",
+      "Pico de gallo"
+    ],
+    "notes": "The PDF specifically states the yuca chips are not gluten free. Confirm preparation and cross-contact with the kitchen.",
+    "image": "/media/guacamole.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-empanada-duo",
+    "name": "Empanada Duo",
+    "kind": "food",
+    "category": "Starters",
+    "page": 1,
+    "description": "Beef: sofrito (onion, bell pepper, garlic, cilantro, oil), raisins, olives, Goya seasoning and tomato sauce. Chicken: green and red bell peppers, tomato sauce/paste, onions and chipotle. Shrimp & crab: lump crab cooked in tomato sauce, peppers, onions and cilantro.",
+    "ingredients": [
+      "Beef",
+      "Chicken",
+      "Sofrito",
+      "Raisins",
+      "Olives",
+      "Tomato sauce"
+    ],
+    "notes": "The PDF lists three filling options; confirm the current duo selection with the kitchen. Game uses beef and chicken core components.",
+    "image": "/media/empanada-duo.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-coconut-shrimp",
+    "name": "Coconut Shrimp",
+    "kind": "food",
+    "category": "Starters",
+    "page": 2,
+    "description": "Five jumbo shrimp breaded with egg whites, sweet shredded coconut and panko. Served on a hanger with sweet chili sauce (sweet chili, coconut milk, ginger, lime zest) and spicy tomato dipping sauce.",
+    "ingredients": [
+      "Jumbo shrimp",
+      "Egg whites",
+      "Shredded coconut",
+      "Panko",
+      "Sweet chili sauce",
+      "Spicy tomato dipping sauce"
+    ],
+    "notes": "",
+    "image": "/media/coconut-shrimp.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-boneless-chicken-bites",
+    "name": "Boneless Chicken Bites",
+    "kind": "food",
+    "category": "Starters",
+    "page": 2,
+    "description": "Crispy fried dark or white chicken marinated in buttermilk, salt, pepper, onion powder and garlic powder. Tossed in a gluten-free flour mix; served with lemon garlic aioli (lemon, mayo, garlic) and mayo ketchup.",
+    "ingredients": [
+      "Chicken",
+      "Buttermilk",
+      "Onion powder",
+      "Garlic powder",
+      "Gluten-free flour mix",
+      "Lemon garlic aioli",
+      "Mayo ketchup"
+    ],
+    "notes": "A gluten-free flour mix does not establish that the finished dish or shared fryer is safe for a gluten allergy.",
+    "image": "/media/boneless-chicken-bites.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-piononos",
+    "name": "Piononos",
+    "kind": "food",
+    "category": "Starters",
+    "page": 3,
+    "description": "Sweet plantain balls filled with beef, peppers, onions, raisins and tomato sauce.",
+    "ingredients": [
+      "Sweet plantain",
+      "Beef",
+      "Peppers",
+      "Onions",
+      "Raisins",
+      "Tomato sauce"
+    ],
+    "notes": "",
+    "image": "/media/piononos.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-calamari",
+    "name": "Calamari",
+    "kind": "food",
+    "category": "Starters",
+    "page": 3,
+    "description": "Calamari marinated and floured the same way as the chicken bites (buttermilk marinade and gluten-free flour mix). Served with mayo ketchup and lemon garlic aioli.",
+    "ingredients": [
+      "Calamari",
+      "Buttermilk",
+      "Gluten-free flour mix",
+      "Mayo ketchup",
+      "Lemon garlic aioli"
+    ],
+    "notes": "Confirm fryer cross-contact and complete ingredients; the flour statement alone is not an allergy safety guarantee.",
+    "image": "/media/calamari.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-don-coqui-montaditos-mar-e-tierra",
+    "name": "Don Coqui Montaditos Mar e Tierra",
+    "kind": "food",
+    "category": "Starters",
+    "page": 3,
+    "description": "Three fried plantains, each topped with grilled skirt steak and grilled shrimp. Served with chimichurri (cilantro, parsley, thyme, roasted red peppers, onion, olive oil, sherry vinegar) and pickled red onions.",
+    "ingredients": [
+      "Fried plantain",
+      "Skirt steak",
+      "Grilled shrimp",
+      "Chimichurri",
+      "Pickled red onion"
+    ],
+    "notes": "",
+    "image": "/media/don-coqui-montaditos-mar-e-tierra.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-yuca-crab-cake",
+    "name": "Yuca Crab Cake",
+    "kind": "food",
+    "category": "Starters",
+    "page": 4,
+    "description": "Jumbo lump crab mixed with mashed yuca (cassava), minced red and green peppers, onion and cilantro. Panko-breaded and fried. Served with mango-cucumber slaw, spicy lemon aioli and corn salsa. Slaw: mango, cucumber, lemon, oil, salt and pepper. Salsa: roasted corn, red onion, cilantro, lemon and olive oil.",
+    "ingredients": [
+      "Jumbo lump crab",
+      "Mashed yuca",
+      "Peppers",
+      "Onion",
+      "Cilantro",
+      "Panko",
+      "Mango-cucumber slaw",
+      "Spicy lemon aioli",
+      "Corn salsa"
+    ],
+    "notes": "",
+    "image": "/media/yuca-crab-cake.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-appetizer-platter-for-2",
+    "name": "Appetizer Platter for 2",
+    "kind": "food",
+    "category": "Starters",
+    "page": 4,
+    "description": "Chef’s choice of beef and chicken empanadas, fried calamari, fried chicken chunks (chicharrón de pollo), and shrimp, beef and chicken skewers (two each).",
+    "ingredients": [
+      "Beef empanada",
+      "Chicken empanada",
+      "Fried calamari",
+      "Fried chicken",
+      "Shrimp skewer",
+      "Beef skewer",
+      "Chicken skewer"
+    ],
+    "notes": "",
+    "image": "/media/appetizer-platter-for-2.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-pulpo-al-grill",
+    "name": "Pulpo al Grill",
+    "kind": "food",
+    "category": "Starters",
+    "page": 5,
+    "description": "Grilled octopus tentacle with fingerling potatoes confit in olive oil, garlic, rosemary and thyme, then smashed and fried. Topped with a fresh frisée salad, escabeche and olives, with chimichurri.",
+    "ingredients": [
+      "Octopus",
+      "Fingerling potatoes",
+      "Olive oil",
+      "Garlic",
+      "Rosemary",
+      "Thyme",
+      "Frisée",
+      "Chimichurri"
+    ],
+    "notes": "",
+    "image": "/media/pulpo-al-grill.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-east-coast-oysters",
+    "name": "East Coast Oysters",
+    "kind": "food",
+    "category": "Raw Bar & Ceviche",
+    "page": 6,
+    "description": "East Coast oysters with cocktail sauce and mignonette (sherry vinegar, cucumber, roasted red peppers and parsley).",
+    "ingredients": [
+      "Oysters",
+      "Cocktail sauce",
+      "Sherry vinegar",
+      "Cucumber",
+      "Roasted red pepper",
+      "Parsley"
+    ],
+    "notes": "",
+    "image": "/media/east-coast-oysters.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-puerto-rican-seafood-salad",
+    "name": "Puerto Rican Seafood Salad",
+    "kind": "food",
+    "category": "Raw Bar & Ceviche",
+    "page": 6,
+    "description": "Clams, mussels, shrimp, calamari and bay scallops marinated in garlic mojo (garlic, cilantro, parsley, lemon, lime and roasted peppers).",
+    "ingredients": [
+      "Clams",
+      "Mussels",
+      "Shrimp",
+      "Calamari",
+      "Bay scallops",
+      "Garlic mojo"
+    ],
+    "notes": "",
+    "image": "/media/puerto-rican-seafood-salad.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-shrimp-cocktail",
+    "name": "Shrimp Cocktail",
+    "kind": "food",
+    "category": "Raw Bar & Ceviche",
+    "page": 6,
+    "description": "Five to six boiled shrimp with horseradish cilantro sauce: red ceviche base, ketchup, sriracha, Worcestershire, lemon juice, Tabasco, coconut milk, cilantro, horseradish, salt and pepper.",
+    "ingredients": [
+      "Boiled shrimp",
+      "Horseradish",
+      "Cilantro",
+      "Ketchup",
+      "Sriracha",
+      "Worcestershire",
+      "Coconut milk"
+    ],
+    "notes": "",
+    "image": "/media/shrimp-cocktail.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-little-neck-clams",
+    "name": "Little Neck Clams",
+    "kind": "food",
+    "category": "Raw Bar & Ceviche",
+    "page": 7,
+    "description": "Half a dozen clams with cocktail sauce and mignonette (sherry vinegar, cucumber, roasted red peppers and parsley).",
+    "ingredients": [
+      "Clams",
+      "Cocktail sauce",
+      "Sherry vinegar",
+      "Cucumber",
+      "Roasted red pepper",
+      "Parsley"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-seafood-tower-full",
+    "name": "Seafood Tower — Full",
+    "kind": "food",
+    "category": "Raw Bar & Ceviche",
+    "page": 7,
+    "description": "Six oysters, six clams, two ceviches, six shrimp cocktail and one whole 1.25 lb lobster.",
+    "ingredients": [
+      "Oysters",
+      "Clams",
+      "Ceviche",
+      "Shrimp cocktail",
+      "Whole lobster"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-seafood-tower-half",
+    "name": "Seafood Tower — Half",
+    "kind": "food",
+    "category": "Raw Bar & Ceviche",
+    "page": 7,
+    "description": "Three oysters, three clams, one choice of ceviche, three shrimp cocktail and half a lobster.",
+    "ingredients": [
+      "Oysters",
+      "Clams",
+      "Ceviche",
+      "Shrimp cocktail",
+      "Half lobster"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-tuna-watermelon-ceviche",
+    "name": "Tuna Watermelon Ceviche",
+    "kind": "food",
+    "category": "Raw Bar & Ceviche",
+    "page": 7,
+    "description": "Small diced tuna and watermelon with a touch of coconut milk, sriracha, cucumber and cilantro.",
+    "ingredients": [
+      "Tuna",
+      "Watermelon",
+      "Coconut milk",
+      "Sriracha",
+      "Cucumber",
+      "Cilantro"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-signature-chopped-salad",
+    "name": "Signature Chopped Salad",
+    "kind": "food",
+    "category": "Salads",
+    "page": 8,
+    "description": "Iceberg lettuce, avocado, bacon, cherry tomatoes, Manchego, corn and onions. Roasted garlic vinaigrette: roasted garlic, sherry vinegar, olive oil and shallots. Chicken, shrimp or steak may be added.",
+    "ingredients": [
+      "Iceberg lettuce",
+      "Avocado",
+      "Bacon",
+      "Cherry tomatoes",
+      "Manchego",
+      "Corn",
+      "Onions",
+      "Roasted garlic vinaigrette"
+    ],
+    "notes": "",
+    "image": "/media/signature-chopped-salad.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-caesar-salad",
+    "name": "Caesar Salad",
+    "kind": "food",
+    "category": "Salads",
+    "page": 9,
+    "description": "Romaine and arugula tossed in Caesar dressing (egg yolks, oil, anchovies, parmesan, vinegar, Worcestershire, salt and pepper). Topped with parmesan, roasted cherry tomatoes and toasted baguette. Chicken, shrimp or steak may be added.",
+    "ingredients": [
+      "Romaine",
+      "Arugula",
+      "Caesar dressing",
+      "Anchovies",
+      "Parmesan",
+      "Roasted cherry tomatoes",
+      "Toasted baguette"
+    ],
+    "notes": "",
+    "image": "/media/caesar-salad.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-roast-pork",
+    "name": "Roast Pork",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 9,
+    "description": "Pernil (pork shoulder) served with pigeon pea rice and potato salad (potato, egg, carrots, red onion, green apple, mayo and vinegar).",
+    "ingredients": [
+      "Pork shoulder",
+      "Pigeon pea rice",
+      "Potato salad"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-churrasco",
+    "name": "Churrasco",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 10,
+    "description": "Don Coqui-style 10 oz skirt steak served with black bean moro, potato salad and chimichurri.",
+    "ingredients": [
+      "Skirt steak",
+      "Black bean moro",
+      "Potato salad",
+      "Chimichurri"
+    ],
+    "notes": "",
+    "image": "/media/churrasco.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-mofongo-with-shrimp",
+    "name": "Mofongo with Shrimp",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 10,
+    "description": "Mashed green plantains with shrimp, pork crackling and garlic creamy sauce.",
+    "ingredients": [
+      "Green plantain",
+      "Shrimp",
+      "Pork crackling",
+      "Garlic creamy sauce"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-rigatoni-pasta",
+    "name": "Rigatoni Pasta",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 10,
+    "description": "Rigatoni with spicy Spanish tomato sauce, Manchego and parmesan; choice of smoked chicken breast or shrimp.",
+    "ingredients": [
+      "Rigatoni",
+      "Spicy Spanish tomato sauce",
+      "Manchego",
+      "Parmesan"
+    ],
+    "notes": "Smoked chicken breast or shrimp is a choice, not both required.",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-oxtail-rabo-guisado",
+    "name": "Oxtail — Rabo Guisado",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 10,
+    "description": "Caribbean braised oxtail in red wine and sofrito sauce, served with white rice, black beans and sweet plantains.",
+    "ingredients": [
+      "Oxtail",
+      "Red wine",
+      "Sofrito",
+      "White rice",
+      "Black beans",
+      "Sweet plantain"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-shrimp-al-ajillo",
+    "name": "Shrimp al Ajillo",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 10,
+    "description": "Six sautéed jumbo shrimp in garlic and white wine reduction with butter sauce; served with white rice or fried green plantains.",
+    "ingredients": [
+      "Jumbo shrimp",
+      "Garlic",
+      "White wine",
+      "Butter"
+    ],
+    "notes": "Choose white rice or fried green plantains.",
+    "image": "/media/shrimp-al-ajillo.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-rum-glazed-pork-chop",
+    "name": "Rum Glazed Pork Chop",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 11,
+    "description": "A 14 oz grilled pork chop brushed with soy sauce, star anise, Bacardi, demi and sugar glaze. Served with creamy mashed potatoes and sautéed garlic spinach.",
+    "ingredients": [
+      "Pork chop",
+      "Soy sauce",
+      "Star anise",
+      "Bacardi",
+      "Demi",
+      "Sugar",
+      "Mashed potatoes",
+      "Garlic spinach"
+    ],
+    "notes": "",
+    "image": "/media/rum-glazed-pork-chop.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-seafood-paella",
+    "name": "Seafood Paella",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 11,
+    "description": "Lobster, shrimp, calamari, black mussels and clams cooked with saffron rice.",
+    "ingredients": [
+      "Lobster",
+      "Shrimp",
+      "Calamari",
+      "Black mussels",
+      "Clams",
+      "Saffron rice"
+    ],
+    "notes": "",
+    "image": "/media/seafood-paella.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-red-snapper",
+    "name": "Red Snapper",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 11,
+    "description": "Whole red snapper with coconut rice and creole sauce. Rice is cooked in sweet coconut milk with vegetables and pineapple, then tossed in toasted sweet coconut shavings.",
+    "ingredients": [
+      "Whole red snapper",
+      "Coconut rice",
+      "Coconut milk",
+      "Vegetables",
+      "Pineapple",
+      "Coconut shavings",
+      "Creole sauce"
+    ],
+    "notes": "",
+    "image": "/media/red-snapper.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-lobster-shrimp-fried-rice",
+    "name": "Lobster & Shrimp Fried Rice",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 12,
+    "description": "A whole 1½ lb Maine lobster with pineapple fried rice and tiger shrimp. Includes mushrooms, maduros, coconut milk and onions.",
+    "ingredients": [
+      "Maine lobster",
+      "Pineapple fried rice",
+      "Tiger shrimp",
+      "Mushrooms",
+      "Maduros",
+      "Coconut milk",
+      "Onions"
+    ],
+    "notes": "",
+    "image": "/media/lobster-shrimp-fried-rice.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-spiced-rum-glaze-grilled-salmon",
+    "name": "Spiced Rum Glaze Grilled Salmon",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 12,
+    "description": "Grilled salmon brushed with a demi, soy sauce and brown sugar rum glaze. Served with white rice colored green by cilantro and spinach oil, and mango habanero salsa (grilled mango, red onion, cilantro, roasted red pepper, habanero, green bell pepper, sherry vinegar and olive oil).",
+    "ingredients": [
+      "Salmon",
+      "Rum glaze",
+      "Rice",
+      "Cilantro",
+      "Spinach oil",
+      "Mango habanero salsa"
+    ],
+    "notes": "The PDF names a rum glaze but lists only demi, soy sauce and brown sugar; confirm its full recipe.",
+    "image": "/media/spiced-rum-glaze-grilled-salmon.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-cuban-vegan-beef-picadillo",
+    "name": "Cuban Vegan Beef Picadillo",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 13,
+    "description": "Beyond Beef cooked Cuban-style with peppers, onions, tomato paste, cilantro, olives and raisins. Served with black bean rice and sweet plantains.",
+    "ingredients": [
+      "Beyond Beef",
+      "Peppers",
+      "Onions",
+      "Tomato paste",
+      "Cilantro",
+      "Olives",
+      "Raisins",
+      "Black bean rice",
+      "Sweet plantain"
+    ],
+    "notes": "",
+    "image": "/media/cuban-vegan-beef-picadillo.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-ropa-vieja",
+    "name": "Ropa Vieja",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 13,
+    "description": "Slow-roasted, shredded short rib beef. Braised with demi, tomato paste, water or beef stock, carrots, onions, celery, rosemary and thyme; then cooked with onions and peppers. Served with moro (black bean rice).",
+    "ingredients": [
+      "Short rib beef",
+      "Demi",
+      "Tomato paste",
+      "Onions",
+      "Peppers",
+      "Black bean rice"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-jerk-chicken",
+    "name": "Jerk Chicken",
+    "kind": "food",
+    "category": "Main Courses",
+    "page": 14,
+    "description": "Roast jerk chicken with red beans, white rice and sweet plantains. Jerk seasoning: garlic, onion, thyme, allspice, ginger, cayenne, cinnamon, nutmeg, smoked paprika, cloves, white pepper and dark brown sugar.",
+    "ingredients": [
+      "Jerk chicken",
+      "Red beans",
+      "White rice",
+      "Sweet plantain"
+    ],
+    "notes": "",
+    "image": "/media/jerk-chicken.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-australian-lamb-chops",
+    "name": "Australian Lamb Chops",
+    "kind": "food",
+    "category": "From the Grill",
+    "page": 14,
+    "description": "Three marinated Australian lamb chops with sweet mashed potato and spinach.",
+    "ingredients": [
+      "Lamb chops",
+      "Sweet mashed potato",
+      "Spinach"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-free-range-citrus-chicken-breast",
+    "name": "Free Range Citrus Chicken Breast",
+    "kind": "food",
+    "category": "From the Grill",
+    "page": 14,
+    "description": "Free-range citrus chicken breast with mashed potato and spinach, topped with demi glaze.",
+    "ingredients": [
+      "Citrus chicken breast",
+      "Mashed potatoes",
+      "Spinach",
+      "Demi glaze"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-bistec-encebollado",
+    "name": "Bistec Encebollado",
+    "kind": "food",
+    "category": "From the Grill",
+    "page": 14,
+    "description": "A 10 oz NY strip steak and onions served with white rice, maduros and beans.",
+    "ingredients": [
+      "NY strip steak",
+      "Onions",
+      "White rice",
+      "Maduros",
+      "Beans"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-prime-black-angus-ny-strip",
+    "name": "Prime Black Angus NY Strip",
+    "kind": "food",
+    "category": "From the Grill",
+    "page": 14,
+    "description": "A 14 oz Prime Black Angus NY strip served with asparagus and mushroom chimichurri sauce.",
+    "ingredients": [
+      "NY strip steak",
+      "Asparagus",
+      "Mushroom chimichurri"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-jumbo-shrimp-criollo",
+    "name": "Jumbo Shrimp Criollo",
+    "kind": "food",
+    "category": "From the Grill",
+    "page": 14,
+    "description": "Jumbo shrimp with spinach, asparagus, white rice and an enchilada sauce.",
+    "ingredients": [
+      "Jumbo shrimp",
+      "Spinach",
+      "Asparagus",
+      "White rice",
+      "Enchilada sauce"
+    ],
+    "notes": "The grill section says “enchilada sauce”; the sauce section lists “Enchilado sauce.” Confirm the current name.",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-don-coqui-guava-chipotle-bbq-sauce",
+    "name": "Don Coqui Guava Chipotle BBQ Sauce",
+    "kind": "food",
+    "category": "Sauces",
+    "page": 15,
+    "description": "Guava cooked down and mixed with smoky BBQ.",
+    "ingredients": [
+      "Guava",
+      "Smoky BBQ"
+    ],
+    "notes": "The title says chipotle, but the ingredient description does not list it. Confirm the complete recipe.",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-wild-mushroom-truffle-chimichurri",
+    "name": "Wild Mushroom Truffle Chimichurri",
+    "kind": "food",
+    "category": "Sauces",
+    "page": 15,
+    "description": "Oyster, shiitake and cremini mushrooms roasted in olive oil, then mixed with chimichurri (parsley, cilantro, roasted red peppers, sherry, olive oil, salt and pepper).",
+    "ingredients": [
+      "Oyster mushroom",
+      "Shiitake",
+      "Cremini",
+      "Olive oil",
+      "Chimichurri"
+    ],
+    "notes": "Truffle appears in the title; the PDF does not specify its form or quantity.",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-red-wine-sofrito-steak-sauce",
+    "name": "Red Wine Sofrito Steak Sauce",
+    "kind": "food",
+    "category": "Sauces",
+    "page": 15,
+    "description": "Red wine with red and green bell peppers, onion, garlic and cilantro.",
+    "ingredients": [
+      "Red wine",
+      "Bell peppers",
+      "Onion",
+      "Garlic",
+      "Cilantro"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-black-garlic-compound-butter",
+    "name": "Black Garlic Compound Butter",
+    "kind": "food",
+    "category": "Sauces",
+    "page": 15,
+    "description": "Butter mixed with black garlic, shallots, lemon zest, rosemary and thyme. Black garlic is sweet and mild.",
+    "ingredients": [
+      "Butter",
+      "Black garlic",
+      "Shallots",
+      "Lemon zest",
+      "Rosemary",
+      "Thyme"
+    ],
+    "notes": "Listed as “Black Butter Compound Butter” in the PDF.",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-enchilado-sauce",
+    "name": "Enchilado Sauce",
+    "kind": "food",
+    "category": "Sauces",
+    "page": 15,
+    "description": "Sofrito creole sauce with a touch of chipotle.",
+    "ingredients": [
+      "Sofrito creole sauce",
+      "Chipotle"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-mashed-potatoes",
+    "name": "Mashed Potatoes",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Listed side; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-saut-ed-vegetables",
+    "name": "Sautéed Vegetables",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Spinach and asparagus.",
+    "ingredients": [
+      "Spinach",
+      "Asparagus"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-fried-green-plantains-tostones",
+    "name": "Fried Green Plantains — Tostones",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Fried green plantains.",
+    "ingredients": [
+      "Green plantain"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-sweet-plantains-maduros",
+    "name": "Sweet Plantains — Maduros",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Sweet plantains.",
+    "ingredients": [
+      "Sweet plantain"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-mac-and-cheese",
+    "name": "Mac and Cheese",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Lobster may be added; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-mac-and-cheese-with-lobster",
+    "name": "Mac and Cheese with Lobster",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Lobster add-on to mac and cheese; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-pigeon-pea-rice",
+    "name": "Pigeon Pea Rice",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Listed side; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-white-rice",
+    "name": "White Rice",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Listed side.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-red-beans",
+    "name": "Red Beans",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Red bean side; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-black-beans",
+    "name": "Black Beans",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Black bean side; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-yuca-mash-with-manchego",
+    "name": "Yuca Mash with Manchego",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Yuca mash with Manchego cheese.",
+    "ingredients": [
+      "Yuca",
+      "Manchego"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-truffle-french-fries",
+    "name": "Truffle French Fries",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Listed side; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-potato-salad",
+    "name": "Potato Salad",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Potato, egg, carrots, red onion, green apple, mayo and vinegar (recipe supplied with Roast Pork).",
+    "ingredients": [
+      "Potato",
+      "Egg",
+      "Carrots",
+      "Red onion",
+      "Green apple",
+      "Mayo",
+      "Vinegar"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-yuca-fries",
+    "name": "Yuca Fries",
+    "kind": "food",
+    "category": "Sides",
+    "page": 16,
+    "description": "Listed side; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-wild-mushrooms",
+    "name": "Wild Mushrooms",
+    "kind": "food",
+    "category": "Sides",
+    "page": 17,
+    "description": "Listed side; full recipe not supplied.",
+    "ingredients": [],
+    "notes": "",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-flan-brul",
+    "name": "Flan Brulé",
+    "kind": "food",
+    "category": "Desserts",
+    "page": 17,
+    "description": "Vanilla flan made with condensed, evaporated and whole milk. Served with strawberries, raspberries and blackberries, topped with white sugar that is torched.",
+    "ingredients": [
+      "Condensed milk",
+      "Evaporated milk",
+      "Whole milk",
+      "Berries",
+      "White sugar"
+    ],
+    "notes": "The PDF does not supply the full custard recipe; do not assume egg-free.",
+    "image": "/media/flan-brul.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-flan-de-coco",
+    "name": "Flan de Coco",
+    "kind": "food",
+    "category": "Desserts",
+    "page": 17,
+    "description": "Vegan coconut ice cream, white chocolate and coconut mousse, served in a coconut on a plate with ice.",
+    "ingredients": [
+      "Coconut ice cream",
+      "White chocolate",
+      "Coconut mousse"
+    ],
+    "notes": "Only the ice cream is explicitly called vegan. Do not describe the entire dessert as vegan without confirmation.",
+    "image": "/media/flan-de-coco.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-tres-leches",
+    "name": "Tres Leches",
+    "kind": "food",
+    "category": "Desserts",
+    "page": 18,
+    "description": "Vanilla cake soaked in milk, topped with Italian meringue.",
+    "ingredients": [
+      "Vanilla cake",
+      "Milk soak",
+      "Italian meringue"
+    ],
+    "notes": "The PDF repeats condensed milk in its three-milk list. Confirm the exact milk recipe.",
+    "image": "/media/tres-leches.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-passion-fruit-tres-leches",
+    "name": "Passion Fruit Tres Leches",
+    "kind": "food",
+    "category": "Desserts",
+    "page": 18,
+    "description": "Vanilla cake with a milk soak, passion fruit coulis and passion fruit whipped cream.",
+    "ingredients": [
+      "Vanilla cake",
+      "Milk soak",
+      "Passion fruit coulis",
+      "Passion fruit whipped cream"
+    ],
+    "notes": "The PDF repeats condensed milk in its three-milk list. Confirm the exact milk recipe.",
+    "image": "",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-dulce-de-leche-cheesecake",
+    "name": "Dulce de Leche Cheesecake",
+    "kind": "food",
+    "category": "Desserts",
+    "page": 18,
+    "description": "Cheesecake made with cream cheese, eggs, sugar and milk. Served with berries and dulce de leche liquor sauce.",
+    "ingredients": [
+      "Cream cheese",
+      "Eggs",
+      "Sugar",
+      "Milk",
+      "Berries",
+      "Dulce de leche liquor sauce"
+    ],
+    "notes": "",
+    "image": "/media/dulce-de-leche-cheesecake.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-flourless-chocolate-cake",
+    "name": "Flourless Chocolate Cake",
+    "kind": "food",
+    "category": "Desserts",
+    "page": 19,
+    "description": "Flourless chocolate cake served with strawberry ice cream and chocolate sauce.",
+    "ingredients": [
+      "Flourless chocolate cake",
+      "Strawberry ice cream",
+      "Chocolate sauce"
+    ],
+    "notes": "Marked G.F. in the PDF; confirm complete ingredients and cross-contact with the kitchen.",
+    "image": "/media/flourless-chocolate-cake.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "food-churros",
+    "name": "Churros",
+    "kind": "food",
+    "category": "Desserts",
+    "page": 20,
+    "description": "Eighteen churros (flour, eggs and sugar) on a wooden tree, served with dulce de leche sauce, eggnog, chocolate sauce and berries.",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Sugar",
+      "Dulce de leche sauce",
+      "Eggnog",
+      "Chocolate sauce",
+      "Berries"
+    ],
+    "notes": "",
+    "image": "/media/churros.jpg",
+    "source": "Menu Description"
+  },
+  {
+    "id": "drink-coquito-old-fashioned",
+    "name": "Coquito Old Fashioned",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 1,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "0.75 Bacardi Gold",
+      "0.75 Coconut Cartel",
+      "0.75 Cut & Dry",
+      "0.25 spiced CS (cinnamon syrup)",
+      "0.5 oz coconut water",
+      "3 dashes Angostura bitters",
+      "3 dashes orange bitters"
+    ],
+    "glass": "Rocks",
+    "garnish": "Orange Peel/Flamed cinnamon stick",
+    "method": "Pour all into mixing glass. Add ice and stir till chilled. Strain \nover clean ice and garnish",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Coquito Old Fashioned \n.75 Bacardi Gold \n.75 coconut cartel \n.75 cut and dry \n.25 spiced CS (cinnamon syrup) \n.5 oz Coconut water 3 \ndashes Ango bitters \n3 dashes orange bitters \nGlass: Rocks \nGarnish: Orange Peel/Flamed cinnamon stick \nMethod: Pour all into mixing glass. Add ice and stir till chilled. Strain \nover clean ice and garnish",
+    "image": ""
+  },
+  {
+    "id": "drink-french-kiss",
+    "name": "French Kiss",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 2,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Spiced Rum (Bacardi)",
+      ".5 oz coconut REAL",
+      ".5 oz Pitaya Syrup",
+      "1 oz lime",
+      "1 oz pineapple juice"
+    ],
+    "glass": "Snifter",
+    "garnish": "pineapple leaf, dried lime and brandied cherry",
+    "method": "Pour all into shaker and shake till chilled. Pour over clean ice in \nsnifter.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "French Kiss \n2 oz Spiced Rum (Bacardi) \n.5 oz coconut REAL \n.5 oz Pitaya Syrup \n1 oz lime \n1 oz pineapple juice \nGlass: Snifter \nGarnish: pineapple leaf, dried lime and brandied cherry \nMethod: Pour all into shaker and shake till chilled. Pour over clean ice in \nsnifter.",
+    "image": "",
+    "menuIngredients": [
+      "Bacardi Spiced Rum",
+      "Cream of coconut",
+      "Dragon fruit syrup",
+      "Pineapple juice",
+      "Lime juice"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-kiwi-crush",
+    "name": "Kiwi Crush",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 3,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.75 oz 21 Seeds",
+      "1 oz St Germain",
+      "1 oz kiwi",
+      "1 oz lime",
+      "2 fresh cucumber slices"
+    ],
+    "glass": "Rock",
+    "garnish": "Rim, Half-Tajin, Sprig, Mint, Dehydrated Citrus",
+    "method": "Pour all ingredients into a shaker. Add ice and shake, open \nshaker and Pour all into the glass.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Kiwi Crush \n1.75 oz 21 Seeds \n1 oz St Germain \n1 oz Kiwi \n1 oz Lime \n2 Fresh \nCucumber \nSlices in shaker and \nshake \nGlass: Rock \nGarish: Rim, Half-Tajin, Sprig, Mint, Dehydrated Citrus \nMethod: Pour all ingredients into a shaker. Add ice and shake, open \nshaker and Pour all into the glass.",
+    "image": ""
+  },
+  {
+    "id": "drink-coco-loco-mule",
+    "name": "Coco Loco Mule",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 4,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Ketel one",
+      "1 oz Lime",
+      ".5 oz Coconut Real syrup",
+      ".5 oz Hibiscus",
+      "2 oz regular ginger beer"
+    ],
+    "glass": "Mule Mug",
+    "garnish": "fresh mint/dried lime",
+    "method": "Shake all minus ginger beer. Pour directly into mule mug. While \npouring, layer with ginger beer,",
+    "notes": "The menu photo and training PDF differ: menu names Gray Whale Vodka and mint; PDF names Ketel One and does not list mint. Confirm the current house build.",
+    "source": "Signature & Common Drinks",
+    "raw": "Coco Loco Mule \n2 oz Ketel one \n1 oz Lime \n.5 oz Coconut Real syrup \n.5 oz Hibiscus \n2 oz regular ginger beer \nGlass: Mule Mug \nGarnish: fresh mint/dried lime \nMethod: Shake all minus ginger beer. Pour directly into mule mug. While \npouring, layer with ginger beer,",
+    "image": "",
+    "menuIngredients": [
+      "Gray Whale Vodka",
+      "Hibiscus",
+      "Coconut",
+      "Ginger beer",
+      "Fresh lime",
+      "Mint"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-passion-en-fuego",
+    "name": "Passion en Fuego",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 5,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.5 oz Bacardi Silver",
+      ".5 oz Cinnamon syrup",
+      "1oz Chinola Passion fruit puree",
+      "2dashes Ango bitters",
+      "1 oz lime"
+    ],
+    "glass": "Rocks",
+    "garnish": "cinnamon stick",
+    "method": "Pour all and shake. Strain over clean ice. Garnish",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Passion en Fuego \n1.5 oz Bacardi Silver \n.5 oz Cinnamon syrup \n1oz Chinola Passion fruit puree \n2dashes Ango bitters \n1 oz lime \nGlass: Rocks \nGarnish: cinnamon stick \nMethod: Pour all and shake. Strain over clean ice. Garnish",
+    "image": "",
+    "menuIngredients": [
+      "Bacardi",
+      "Chinola passion fruit",
+      "Cinnamon",
+      "Angostura bitters",
+      "Lime"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-pretty-in-pink",
+    "name": "Pretty in Pink",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 6,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "0.75 oz Hanson Meyer Lemon",
+      "0.75 oz Haiken Lychee",
+      "0.75 oz Pama Pomegranate Liqueur",
+      "0.5 Cointreau",
+      "1 oz lime",
+      "1 oz guava",
+      "0.5 oz agave"
+    ],
+    "glass": "Coupe",
+    "garnish": "lychee and dried lemon",
+    "method": "Pour all ingredients into a \nshaker, add ice and shake till \nchilled. Double strain into coupe.",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Pretty in Pink \n.75 oz Hanson Meyer Lemon \n.75 oz Haiken Lychee \n.75 oz Pama Pomegranate Liqueur \n.5 Cointreau \n1 oz Lime \n1 oz guava \n.5 oz agave \nGlass: Coupe \nGarnish: lychee and dried lemon \nMethod: Pour all ingredients into a \nshaker, add ice and shake till \nchilled. Double strain into coupe.",
+    "image": "",
+    "menuIngredients": [
+      "Haiken Lychee Vodka",
+      "Hanson Meyer Lemon",
+      "Pama Pomegranate",
+      "Cointreau",
+      "Lime",
+      "Guava"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-midnight-in-san-juan",
+    "name": "Midnight in San Juan",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 7,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Ketel One",
+      "1 oz Kahlúa",
+      "1oz Espresso"
+    ],
+    "glass": "Coupe",
+    "garnish": "espresso beans",
+    "method": "Shake all ingredients and double strain into a coupe",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Midnight in San Juan \n2 oz Ketel One \n1 oz Kahlúa \n1oz Espresso \nGlass: Coupe \nGarnish: espresso beans \nMethod: Shake all ingredients and double strain into a coupe",
+    "image": ""
+  },
+  {
+    "id": "drink-the-don",
+    "name": "The Don",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 8,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1 oz Don Julio reposado",
+      "0.5 oz agave",
+      "0.5 oz lime",
+      "1.5 tamarind juice",
+      "1 mini bottle of Don Julio 1942",
+      "1 tsp 14k gold dust"
+    ],
+    "glass": "Rocks",
+    "garnish": "Salt on side of glass, upside-down Don Julio 1942 mini bottle, dried lime",
+    "method": "Shake hard and double strain over clean ice. Open mini bottle \nand place quickly in glass upside down.",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure. The menu photo and training PDF differ: menu lists a pinch of salt; PDF lists gold dust and does not list salt. Confirm the current house build.",
+    "source": "Signature & Common Drinks",
+    "raw": "The Don \n1 oz Don Julio Rep \n.5 oz Agave \n.5 oz Lime \n1.5 Tamarind Juice \n1 mini bottle of Don Julio \n1942 \n1 tsp 14k gold dust \nGlass: Rocks \nMethod: Shake hard and double strain over clean ice. Open mini bottle \nand place quickly in glass upside down. \nGarnish: salt on side of glass. 1942, dried \nlime.",
+    "image": "",
+    "menuIngredients": [
+      "Mini bottle of Don Julio 1942",
+      "Don Julio Reposado",
+      "Tamarind",
+      "Lime",
+      "Agave",
+      "Pinch of salt"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-vivir-so-ando",
+    "name": "Vivir Soñando",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 9,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.5 oz Don Julio reposado",
+      "1 oz Chinola",
+      "0.25 oz Campari",
+      "0.75 oz lime",
+      "0.75 oz agave"
+    ],
+    "glass": "Rocks",
+    "garnish": "Dried Lime",
+    "method": "Pour all ingredients into a shaker, add ice and shake till \nchilled. Strain over fresh ice.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Vivir Soñando \n1.5 oz Don Julio Repo \n1 oz Chinola \n.25 oz Campari .75 oz Lime. \n.75 oz Agave \nGlass: Rocks \nGarnish: Dried Lime \nMethod: Pour all ingredients into a shaker, add ice and shake till \nchilled. Strain over fresh ice.",
+    "image": "",
+    "menuIngredients": [
+      "Don Julio Reposado",
+      "Chinola passion fruit",
+      "Lime",
+      "Agave nectar",
+      "Campari"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-sunset-on-the-hudson",
+    "name": "Sunset on the Hudson",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 10,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "0.75 oz Gray Whale gin",
+      "0.75 oz guanabana",
+      "0.75 oz lime",
+      "1 oz St Germain",
+      "0.5 oz Prosecco",
+      "0.75 oz Aperol"
+    ],
+    "glass": "Wine",
+    "garnish": "Lemon zest / dried lemon; wording needs confirmation",
+    "method": "Pour all ingredients into a wine glass \nwithout ice. Add ice then gently stir",
+    "notes": "Garnish wording is unclear in the PDF (“Leomon /est”). Confirm with the bar.",
+    "source": "Signature & Common Drinks",
+    "raw": "Sunset on the Hudson \n.75 oz Gray Whale Gin \n.75 oz Guanabana \n.75 oz Lime \n1 oz St. Germain \n½ oz Prosecco \n.75 oz Aperol Glass: Wine \nGarnish: Leomon /est, dried lemon \nMethod: Pour all ingredients into a wine glass \nwithout ice. Add ice then gently stir",
+    "image": ""
+  },
+  {
+    "id": "drink-wepa",
+    "name": "Wepa",
+    "kind": "drink",
+    "category": "Classic Cocktails",
+    "page": 11,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2oz House Tequila",
+      "1oz Lime",
+      "1oz Tamarind Juice",
+      ".5 Agave",
+      "1 oz Passion fruit"
+    ],
+    "glass": "Tall Margarita glass",
+    "garnish": "",
+    "method": "Shake all ingredients together and then double strain \nover ice",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Wepa \n2oz House Tequila \n1oz Lime \n1oz Tamarind Juice \n.5 Agave \n1 oz Passion fruit \nGlass: Tall Margarita glass \nMethod: Shake all ingredients together and then double strain \nover ice",
+    "image": ""
+  },
+  {
+    "id": "drink-sexy-island",
+    "name": "Sexy Island",
+    "kind": "drink",
+    "category": "Classic Cocktails",
+    "page": 12,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      ".5 oz Well Vodka",
+      ".5 oz Well Gin",
+      ".5 oz Well Rum",
+      ".5 oz Well Tequila",
+      ".25 oz Sour Apple",
+      ".25 oz strawberry",
+      ".25 oz Passion fruit",
+      ".25 oz Lemonade"
+    ],
+    "glass": "Highball glass",
+    "garnish": "",
+    "method": "build ingredients in high ball glass with ice",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Sexy Island \n.5 oz Well Vodka \n.5 oz Well Gin \n.5 oz Well Rum \n.5 oz Well Tequila \n.25 oz Sour Apple \n.25 oz strawberry \n.25 oz Passion fruit \n.25 oz Lemonade \nGlass: Highball glass \nMethod: build ingredients in high ball glass with ice",
+    "image": ""
+  },
+  {
+    "id": "drink-blue-coconut-margarita",
+    "name": "Blue Coconut Margarita",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 13,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1 oz Don Julio Blanco",
+      "1 oz blue curaçao",
+      "1 oz coconut purée",
+      "1 oz lime"
+    ],
+    "glass": "rocks glass",
+    "garnish": "sugar rim with orange wedge",
+    "method": "Shake all ingredients together and then double strain over ice",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Blue Coconut \nMargarita \n1 oz DonJulio Blanco \n1 oz Blue curaçao \n1 oz Coconut \npuree 1 oz Lime \nGlass: rocks glass \nMethod: Shake all ingredients together and then double strain over ice \nGarnish: sugar rim with orange wedge",
+    "image": ""
+  },
+  {
+    "id": "drink-spicy-se-orita",
+    "name": "Spicy Señorita",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 14,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.5 oz Patrón Silver",
+      "1 oz St Germain",
+      "1.5 oz watermelon juice",
+      "0.5 oz agave",
+      "1 oz lime juice",
+      "0.25 oz Ancho Reyes",
+      "2 jalapeño slices, muddled"
+    ],
+    "glass": "Martini glass",
+    "garnish": "Fresh watermelon wedges",
+    "method": "Shake all ingredients together and then strain into martini \nglass",
+    "notes": "Jalapeño muddling is specified. Follow the house handling procedure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Spicy Señorita \n1.5 oz Patron Silver \n1 oz St Germaine \n1.5 oz Watermelon juice \n.5 oz Agave \n1 oz Lime juice \n.25 oz Ancho Reyes \n2 Slices of Jalapen o \nmuddled \nGlass: Martini glass \nMethod: Shake all ingredients together and then strain into martini \nglass \nGarnish: Fresh watermelon wedges",
+    "image": "",
+    "menuIngredients": [
+      "Patrón Silver Tequila",
+      "St. Germain elderflower",
+      "Ancho Reyes",
+      "Watermelon purée",
+      "Lime juice",
+      "Fresh jalapeño"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-pitaya-island",
+    "name": "Pitaya Island",
+    "kind": "drink",
+    "category": "Mocktails",
+    "page": 15,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1 oz Pitaya syrup",
+      "1 oz Passion fruit puree",
+      "1 oz Lime juice",
+      "1 oz Club soda",
+      ".5 Agave"
+    ],
+    "glass": "rocks glass",
+    "garnish": "Orange slice and pineapple leaf",
+    "method": "Shake all ingredients together \nand pour",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Pitaya Island \n1 oz Pitaya syrup \n1 oz Passion fruit puree \n1 oz Lime juice \n1 oz Club soda \n.5 Agave \nGlass: rocks glass \nMethod: Shake all ingredients together \nand pour \nGarnish: Orange slice and pineapple leaf",
+    "image": ""
+  },
+  {
+    "id": "drink-tropical-vanilla-passion",
+    "name": "Tropical Vanilla Passion",
+    "kind": "drink",
+    "category": "Mocktails",
+    "page": 16,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "0.25 Vanilla REAL",
+      "0.5 oz Passion Fruit REAL",
+      "2 oz lemonade",
+      "Top with ginger beer"
+    ],
+    "glass": "Mule Cup",
+    "garnish": "Mint Leef",
+    "method": "Shake all ingredients together and then top with ginger \nbeer",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Tropical Vanilla Passion \n.25 Vanilla Real \n.5 oz Passion fruit Real \n2 oz Lemonade \nTop with Ginger beer \nGlass: Mule Cup \nMethod: Shake all ingredients together and then top with ginger \nbeer \nGarnish: Mint Leef",
+    "image": ""
+  },
+  {
+    "id": "drink-don-coqui-nojito",
+    "name": "Don Coqui Nojito",
+    "kind": "drink",
+    "category": "Mocktails",
+    "page": 17,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1 oz lime juice",
+      "1 oz agave",
+      "6 muddled mint leaves",
+      "2 oz club soda",
+      "1 oz Sprite"
+    ],
+    "glass": "Mason Jar",
+    "garnish": "Lime",
+    "method": "Shake all ingredients together and top \nwith soda and sprite",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Don Coqui Nojito \n1 oz Lime juice \n1 oz Agave \n6 muddled mint leaves \n2 oz Club soda \n1 oz Sprite \nGlass: Mason Jar \nMethod: Shake all ingredients together and top \nwith soda and sprite \nGarnish: Lime",
+    "image": ""
+  },
+  {
+    "id": "drink-apple-cider-spritz",
+    "name": "Apple Cider Spritz",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 18,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "4 oz apple cider",
+      "0.5 oz Aperol",
+      "0.5 oz St Germain",
+      "0.5 oz cinnamon simple syrup",
+      "3 oz Prosecco"
+    ],
+    "glass": "Wine Glass with Ice",
+    "garnish": "Sangria Apples",
+    "method": "Shake and top with Prosecco.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Apple Cider Spritz \n4 oz Apple Cider \n.5 oz Aperol \n.5 oz St Germaine \n.5 oz Cin Simple \nShake then \nTop off w/ 3 oz Prosseco \nGlass: Wine Glass with Ice \nMethod: Shake and top with Prosecco. \nGarnish: Sangria Apples",
+    "image": ""
+  },
+  {
+    "id": "drink-fireside-mule",
+    "name": "Fireside Mule",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 19,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz lime juice",
+      "0.5 oz pumpkin spice",
+      "0.5 oz cinnamon simple syrup",
+      "2 oz apple cider",
+      "Top with ginger beer"
+    ],
+    "glass": "Mule Glass",
+    "garnish": "Toasted Marshmallow",
+    "method": "Stir well",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Fireside Mule \n \n2 oz Vodka \n1 oz Lime Juice \n.5 oz Pumpkin Spice \n.5 oz Cin Simple \n2 oz Apple Cider \nTop with Ginger Beer \nGlass: Mule Glass \nMethod: Stir well \nGarnish: Toasted Marshmallow",
+    "image": "",
+    "menuIngredients": [
+      "Tito’s Vodka",
+      "Pumpkin spice",
+      "Cinnamon",
+      "Apple cider",
+      "Ginger beer",
+      "Toasted marshmallows"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-margarita",
+    "name": "Margarita",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 20,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Tequila",
+      "1 oz Triple Sec",
+      "1 oz Lime Juice",
+      ".5 oz Agave"
+    ],
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Margarita \n \n2 oz Tequila \n1 oz Triple Sec \n1 oz Lime Juice \n.5 oz Agave",
+    "image": ""
+  },
+  {
+    "id": "drink-lemon-drop",
+    "name": "Lemon Drop",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 21,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Vodka",
+      "1 oz Lime juice",
+      ".5 oz St. Germain",
+      "1.5 oz Simple Syrup"
+    ],
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Lemon Drop  \n \n2 oz Vodka  \n1 oz Lime juice  \n.5 oz St. Germain  \n    1.5 oz Simple Syrup",
+    "image": ""
+  },
+  {
+    "id": "drink-mojito",
+    "name": "Mojito",
+    "kind": "drink",
+    "category": "Classic Cocktails",
+    "page": 22,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "6 mint leaves",
+      "1 lime wedge",
+      "0.75 oz agave",
+      "0.5 oz lime juice",
+      "Splash Sprite",
+      "2 oz soda",
+      "2 oz Bacardi"
+    ],
+    "glass": "Not specified",
+    "garnish": "",
+    "method": "Muddle mint and lime as indicated; full procedure not specified.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Mojito \n6 Mint Leaves  \n1 Lime Wedge  \n3/4 oz Agave  \n.5 oz Lime Juice  \nSplash Sprite  \n2 oz of Soda  \n2 oz Bacardi  \n \n***Coconut Mojitos  \n1 oz Malibu  \n1 oz Bacardi",
+    "image": ""
+  },
+  {
+    "id": "drink-negroni",
+    "name": "Negroni",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 23,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.5 oz Gin",
+      "4 Dashes Orange Bitters",
+      "1 oz Sweet Vermouth",
+      "1 oz Campari"
+    ],
+    "glass": "Rocks Glass (big ice cube)",
+    "garnish": "Orange peel",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Negroni \n1.5 oz Gin \n4 Dashes Orange Bitters  \n1 oz Sweet Vermouth  \n1 oz Campari  \n \n \n***Rocks Glass (big ice cube) \n \n   Garnish with Orange Peel",
+    "image": ""
+  },
+  {
+    "id": "drink-old-fashioned",
+    "name": "Old Fashioned",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 24,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Bourbon",
+      "4 Dashes Orange Bitters",
+      "2 Dashes Angostura",
+      ".25 Simple Syrup"
+    ],
+    "glass": "Rocks Glass (big ice cube)",
+    "garnish": "Dark cherry and orange peel (marked very important)",
+    "method": "",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Old Fashioned  \n2 oz Bourbon  \n4 Dashes Orange Bitters  \n2 Dashes Angostura \n.25 Simple Syrup  \n \n \n***Rocks Glass (big ice cube) \nGarnish Dark Cherry and Orange Skin Peel*** Very Important",
+    "image": ""
+  },
+  {
+    "id": "drink-manhattan",
+    "name": "Manhattan",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 25,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz bourbon",
+      "1 oz sweet vermouth",
+      "2 dashes Angostura bitters",
+      "4 dashes orange bitters",
+      "0.25 agave"
+    ],
+    "glass": "MARTINI GLASS",
+    "garnish": "Dark Cherry",
+    "method": "Stir; do not shake.",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Manhattan  \nStir (don’t shake) \n2 oz Bourbon  \n1 oz Sweet Vermouth  \n2 Dashes Angostura \n4 Dashes Orange Bitters  \n.25 Agave \n \n \n***GOES IN A MARTINI GLASS \n \nGarnish Dark Cherry",
+    "image": ""
+  },
+  {
+    "id": "drink-cosmo",
+    "name": "Cosmo",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 26,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz triple sec",
+      "1 oz lime juice",
+      "0.5 oz agave",
+      "2 dashes orange bitters",
+      "Very light splash cranberry"
+    ],
+    "glass": "Martini glass",
+    "garnish": "",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Cosmo \n2oz Vodka  \n1oz Triple Sec  \n1oz Lime Juice  \n.5 oz Agave  \n2 Dashes Orange Bitters  \n \n \n**VERY Light Splash of Cranberry  \n \n***Martini Glass",
+    "image": ""
+  },
+  {
+    "id": "drink-dirty-martini",
+    "name": "Dirty Martini",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 27,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "4 oz Vodka or Gin",
+      "¾ oz Olive Juice"
+    ],
+    "glass": "Martini Glass",
+    "garnish": "3 olives",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Dirty Martini \n \n4 oz Vodka or Gin \n¾ oz Olive Juice  \n \n \n**Martini Glass \n \nGarnish 3 olives",
+    "image": ""
+  },
+  {
+    "id": "drink-dry-martini",
+    "name": "Dry Martini",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 28,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "4 oz Vodka or Gin",
+      ".25 oz Dry Vermouth"
+    ],
+    "glass": "Martini Glass",
+    "garnish": "3 olives",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Dry Martini  \n \n4 oz Vodka or Gin \n.25 oz Dry Vermouth  \n \n \n \n*** Martini Glass \nGarnish 3 olives",
+    "image": ""
+  },
+  {
+    "id": "drink-extra-dry-martini",
+    "name": "Extra Dry Martini",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 29,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "Dry vermouth rinse, discarded",
+      "4 oz vodka or gin"
+    ],
+    "glass": "Vermouth-rinsed glass; type not specified",
+    "garnish": "3 olives",
+    "method": "Rinse the glass with dry vermouth, discard it, shake 4 oz vodka or gin and serve in the same glass.",
+    "notes": "The house recipe specifically says shake, using the glass rinsed with dry vermouth.",
+    "source": "Signature & Common Drinks",
+    "raw": "Extra Dry Martini  \n \nDry Vermouth in Glass      \nThen Throw Out  \nShake 4oz of Vodka or Gin  \n \n \n \n                   \n \n***Shake and Put in Same Glass where the Dry Vermouth was in. \n \nGarnish 3 olives",
+    "image": ""
+  },
+  {
+    "id": "drink-french-martini",
+    "name": "French Martini",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 30,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Vodka or Gin",
+      "1 oz Chambord",
+      "1.5 oz of Pineapple"
+    ],
+    "glass": "Martini Glass",
+    "garnish": "3 olives",
+    "method": "Shake well.",
+    "notes": "The PDF explicitly lists three olives as garnish. Confirm this house standard with the bar.",
+    "source": "Signature & Common Drinks",
+    "raw": "French Martini \n \n \n \n \n \n \n2 oz Vodka or Gin \n1 oz Chambord \n1.5 oz of Pineapple  \nShake Well \n \n \n \n \n***Martini Glass \n \n Garnish 3 olives",
+    "image": ""
+  },
+  {
+    "id": "drink-french-75",
+    "name": "French 75",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 31,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1 oz gin",
+      "0.5 oz lime juice",
+      "0.5 oz simple syrup",
+      "Champagne to top"
+    ],
+    "glass": "Conflicting: Champagne glass / Martini glass",
+    "garnish": "3 olives",
+    "method": "Shake well and top with Champagne; confirm glassware.",
+    "notes": "Conflicting glass instructions: “Champagne Glass” and “served in Martini Glass.” Three olives are also listed; confirm glass and garnish.",
+    "source": "Signature & Common Drinks",
+    "raw": "French 75  \n \n1 oz of Gin  \n.5 oz Lime Juice  \n.5 oz Simple Syrup  \n \n \n \n \nChampagne Glass  \n \n**Shake Well served in Martini Glass top off with Champagne \n \nGarnish 3 olives",
+    "image": ""
+  },
+  {
+    "id": "drink-porn-star-martini",
+    "name": "Porn Star Martini",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 32,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz vanilla vodka or gin",
+      "1 oz passionfruit purée",
+      "1 oz passionfruit liqueur",
+      "0.5 oz lime juice",
+      "0.5 oz simple syrup",
+      "Shot of house Prosecco on the side"
+    ],
+    "glass": "Martini glass",
+    "garnish": "3 olives",
+    "method": "Shake and strain into a Martini glass. Serve house Prosecco on the side.",
+    "notes": "The PDF lists vodka or gin and three olives. Confirm the intended spirit and garnish.",
+    "source": "Signature & Common Drinks",
+    "raw": "Porn Star Martini \n \n2 oz Vanilla Vodka or Gin \n1 oz Passionfruit Purée \n1 oz Passionfruit Liquor \nHalf an ounce of Lime Juice,  \nhalf an ounce of Simple Syrup,   \n \n \n \n \nShake and Strain into a Martini Glass  \n \nShot of House Prosecco served on the Side \n \nGarnish 3 olives",
+    "image": ""
+  },
+  {
+    "id": "drink-daiquiri",
+    "name": "Daiquiri",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 33,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Rum",
+      "1 oz Agave",
+      "1 oz Lime Juice"
+    ],
+    "glass": "Highball",
+    "garnish": "",
+    "method": "Shake and serve in a highball.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Daiquiri \n \n2 oz Rum  \n1 oz Agave  \n1 oz Lime Juice  \n \n \n \n \n \nShaken served in a Highball",
+    "image": ""
+  },
+  {
+    "id": "drink-whiskey-sour",
+    "name": "Whiskey Sour",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 34,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Whiskey",
+      "1oz Lime Juice",
+      "1 oz Simple Syrup"
+    ],
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Whiskey Sour  \n \n2 oz Whiskey  \n1oz Lime Juice  \n1 oz Simple Syrup",
+    "image": ""
+  },
+  {
+    "id": "drink-muscle-mule",
+    "name": "Muscle Mule",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 35,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2.5 vodka",
+      "1 oz lime juice",
+      "Half of a big can of ginger beer"
+    ],
+    "glass": "Mule Cup",
+    "garnish": "",
+    "method": "",
+    "notes": "The PDF title is “Muscle Mule”; confirm the house name and ginger beer can size. Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Muscle Mule  \n \n2.5 Vodka \n1 oz Lime Juice  \nHalf of Big Can of Ginger beer  \n \n \n \n**Mule Cup \n \n \n \n***Mexican Mule sub Vodka for Tequila",
+    "image": ""
+  },
+  {
+    "id": "drink-tom-collin-gimlet",
+    "name": "Tom Collin/Gimlet",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 36,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz gin",
+      "1 oz lime",
+      "1 oz simple syrup"
+    ],
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "One shared recipe is listed for Tom Collin/Gimlet; no distinction is supplied.",
+    "source": "Signature & Common Drinks",
+    "raw": "Tom Collin/Gimlet \n \n2 oz Gin  \n1 oz Lime  \n1 oz Simple Syrup",
+    "image": ""
+  },
+  {
+    "id": "drink-sidecar",
+    "name": "Sidecar",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 37,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2oz Hennessy",
+      "1oz Triple Sec",
+      "1oz Lime Juice",
+      "1 oz Agave"
+    ],
+    "glass": "Sugar-rimmed coupe",
+    "garnish": "",
+    "method": "Serve in a sugar-rimmed coupe.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Sidecar \n \n2oz Hennessy  \n1oz Triple Sec \n1oz Lime Juice  \n1 oz Agave  \n \n \n \nSugar Rim Coupe Glass",
+    "image": ""
+  },
+  {
+    "id": "drink-expresso-martini",
+    "name": "Expresso Martini",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 38,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 vodka or gin",
+      "1 oz Kahlúa",
+      "1.5 oz espresso"
+    ],
+    "glass": "",
+    "garnish": "",
+    "method": "Baileys (0.5 oz) if requested.",
+    "notes": "Baileys (0.5 oz) only if requested. “Expresso” is the PDF spelling. Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Expresso Martini  \n \n2 Vodka or Gin \n1 oz Kahlua \n1.5 oz of Espresso  \n.5 oz Baileys (if requested)",
+    "image": ""
+  },
+  {
+    "id": "drink-mai-tai",
+    "name": "Mai Tai",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 39,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Dark Rum",
+      "1 oz Lime",
+      "1 oz Triple Sec",
+      "1 oz Amaretto",
+      ".5 oz Agave"
+    ],
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Mai Tai \n \n2 oz Dark Rum  \n1 oz Lime \n1 oz Triple Sec  \n1 oz Amaretto  \n.5 oz Agave",
+    "image": ""
+  },
+  {
+    "id": "drink-aperol-spritz",
+    "name": "Aperol Spritz",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 40,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.5 oz Aperol",
+      "Prosecco to fill 3/4 of the glass",
+      "Finish with soda",
+      "2 dashes orange bitters"
+    ],
+    "glass": "Wine glass with ice",
+    "garnish": "with Orange",
+    "method": "Fill wine glass with ice; fill 3/4 with Prosecco, finish with soda and add orange bitters.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Aperol Spritz \n \n1.5 oz Aperol \nFill Wine Glass with Ice  \n3/4 of Glass Fill with Prosecco  \nFinish it off with Soda \n2 Dashes of Orange Bitters  \n****Garnish with Orange",
+    "image": ""
+  },
+  {
+    "id": "drink-paloma",
+    "name": "Paloma",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 41,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz of Tequila",
+      "1 oz Lime",
+      ".5 oz Agave",
+      "3 oz of Grapefruit"
+    ],
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Paloma \n \n2 oz of Tequila  \n1 oz Lime  \n.5 oz Agave  \n3 oz of Grapefruit",
+    "image": ""
+  },
+  {
+    "id": "drink-lychee-martini",
+    "name": "Lychee Martini",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 42,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Vodka",
+      "1 oz St Germain",
+      "2 oz Lychee Syrup from Lychee Can"
+    ],
+    "glass": "",
+    "garnish": "Lychee",
+    "method": "",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Lychee Martini \n \n2 oz Vodka \n     1 oz St Germain \n     2 oz Lychee Syrup from Lychee Can  \n     \nGarnish with Lychee",
+    "image": ""
+  },
+  {
+    "id": "drink-red-sangria",
+    "name": "Red Sangria",
+    "kind": "drink",
+    "category": "Classic Cocktails",
+    "page": 43,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "7 oz red sangria",
+      "1 oz passion",
+      "1 oz orange"
+    ],
+    "glass": "Mason jar with ice",
+    "garnish": "Green apples cut in ½-inch cubes",
+    "method": "Fill mason jar with ice, add the listed build.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "Red Sangria  \n \nFill mason jar with ice  \n7oz Red Sangria \n  \n1oz Passion  \n1 oz Orange \n \n \n \nGarnish with Green Apples cut in ½” cubes.",
+    "image": ""
+  },
+  {
+    "id": "drink-white-sangria",
+    "name": "White Sangria",
+    "kind": "drink",
+    "category": "Classic Cocktails",
+    "page": 44,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "7 oz white sangria",
+      "1 oz passion",
+      "1 oz orange"
+    ],
+    "glass": "Mason jar with ice",
+    "garnish": "Green apples cut in ½-inch cubes",
+    "method": "Fill mason jar with ice, add the listed build.",
+    "notes": "",
+    "source": "Signature & Common Drinks",
+    "raw": "White Sangria  \n \nFill mason jar with ice  \n7oz White Sangria \n1oz Passion  \n1 oz Orange \n \n \n \nGarnish with Green Apples cut in ½” cubes.",
+    "image": ""
+  },
+  {
+    "id": "drink-mistle-toe-martini",
+    "name": "Mistle Toe Martini",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 45,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1 oz Bacardi spiced",
+      "1 oz Malibu",
+      "0.75 oz lime juice",
+      "0.5 strawberry",
+      "0.5 coco",
+      "1.5 oz pineapple juice",
+      "0.5 peppermint",
+      "Sparkling cranberry to top"
+    ],
+    "glass": "Martini glass with blended candy cane rim",
+    "garnish": "Rosemary sprig and sugared cranberries",
+    "method": "Shake; top with sparkling cranberry.",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Mistle Toe Martini  \n \n1 oz Bacardi spiced \n1 oz Malibu \n.75 oz lime juice \n.5 strawberry \n.5 coco \n1.5 oz pineapple juice \n.5 peppermint \n \n \n \nMartini glass rimed w blended candy cane \n \n \nShake top with sparkling cranberry \n \n \nGarnish with rosemary sprig and sugared cranberries",
+    "image": ""
+  },
+  {
+    "id": "drink-white-christmas",
+    "name": "White Christmas",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 46,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.5 oz casamigos",
+      "1 oz coconut",
+      "1 oz coconut water",
+      ".5 lime juice",
+      ".5 orange liqueur"
+    ],
+    "glass": "Rocks glass with sugar rim",
+    "garnish": "Rosemary and cranberry",
+    "method": "",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "White Christmas \n \n \n1.5 oz casamigos \n1 oz coconut \n1 oz coconut water \n.5 lime juice \n.5 orange liqueur \n \nSugar on rim of rocks glass \n \nGarnished with rosemary and cranberry",
+    "image": ""
+  },
+  {
+    "id": "drink-besos",
+    "name": "Besos",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 47,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz lime juice",
+      "0.5 oz agave",
+      "0.5 oz Chinola",
+      "0.5 oz passion purée",
+      "0.5 oz Licor 43",
+      "Side shot house Champagne"
+    ],
+    "glass": "Martini Glass",
+    "garnish": "Orange",
+    "method": "",
+    "notes": "The menu photo and training PDF differ: menu names a Prosecco shot; PDF names house Champagne. Confirm the current house build.",
+    "source": "Signature & Common Drinks",
+    "raw": "Besos \n \n2oz Vodka  \n1oz Lime Juice  \n.5oz Agave  \n.5oz Chinola  \n.5oz Passion  Puree \n.5oz Licor 43 \n \nSide Shot of House Champagne \n \n \nGlass: Martini Glass \n \nGarnish: Orange",
+    "image": "",
+    "menuIngredients": [
+      "Vodka",
+      "Licor 43",
+      "Chinola passion fruit",
+      "Lime juice",
+      "Agave",
+      "Shot of Prosecco"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-la-diabla",
+    "name": "La Diabla",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 48,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.5 1800 coconut teq",
+      "1oz lime",
+      ".75 ancho Reyes",
+      "1oz straw purée (real)"
+    ],
+    "glass": "Snifter with Tajín rim",
+    "garnish": "",
+    "method": "",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "La Diabla  \n1.5 1800 coconut teq  \n1oz lime  \n.75 ancho Reyes  \n1oz straw purée (real)  \nSnifter glass Tajin rim",
+    "image": "",
+    "menuIngredients": [
+      "1800 Coconut Tequila",
+      "Lime juice",
+      "Ancho Reyes",
+      "Strawberry purée"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-dragon-fruit-paloma",
+    "name": "Dragon Fruit Paloma",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "page": 49,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "1.5oz Don Julio Blanco",
+      ".5 Licor 43",
+      ".5 Agave",
+      ".5 Dragon Fruit",
+      "1oz Lime",
+      "2oz Grapefruit Juice"
+    ],
+    "glass": "",
+    "garnish": "Half Tajín rim, dragon fruit on a stick",
+    "method": "",
+    "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
+    "source": "Signature & Common Drinks",
+    "raw": "Dragon Fruit Paloma \n \n1.5oz Don Julio Blanco \n.5 Licor 43 \n.5 Agave \n.5 Dragon Fruit \n1oz Lime \n2oz Grapefruit Juice \nGarnish - half rim tajin, dragon fruit on a stick",
+    "image": "",
+    "menuIngredients": [
+      "Don Julio Blanco",
+      "Fresh citrus",
+      "Dragon fruit",
+      "Lime",
+      "Licor 43",
+      "Grapefruit",
+      "Agave"
+    ],
+    "menuSource": "Uploaded cocktail menu photo"
+  },
+  {
+    "id": "drink-island-matcha",
+    "name": "Island Matcha",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 50,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2 oz Yoshi Match Liq",
+      "1 oz 1800 Coconut",
+      "0.75 oz pineapple juice",
+      "0.25 oz simple syrup"
+    ],
+    "glass": "Highball (11oz)",
+    "garnish": "Half Rim, Black Salt, Sprig, Mint",
+    "method": "Rim Glass, combine in Mixing Tin, Except Soda, Shake w/ \nIce, Top w/ Soda",
+    "notes": "Conflict: ingredient list says “0 oz Club Soda,” while procedure says top with soda. Soda quantity requires bar confirmation.",
+    "source": "Signature & Common Drinks",
+    "raw": "Island Matcha \n \n2oz     Yoshi Match Liq \n1oz     1800 Coconut \n.75oz  Pineapple Juice \n \n.25oz  Simple Syrup  \n0 oz    Club Soda \n \n \nGlass: Highball (11oz) \n \nGarnish: Half Rim, Black Salt, Sprig, Mint \n \nProcedure: Rim Glass, combine in Mixing Tin, Except Soda, Shake w/ \nIce, Top w/ Soda",
+    "image": ""
+  },
+  {
+    "id": "drink-coconut-mojito",
+    "name": "Coconut Mojito",
+    "kind": "drink",
+    "category": "Classic Cocktails",
+    "page": 22,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "6 mint leaves",
+      "1 lime wedge",
+      "0.75 oz agave",
+      "0.5 oz lime juice",
+      "Splash Sprite",
+      "2 oz soda",
+      "1 oz Malibu",
+      "1 oz Bacardi"
+    ],
+    "glass": "Not specified",
+    "garnish": "",
+    "method": "Muddle mint and lime as indicated; full procedure not specified.",
+    "notes": "The PDF gives Malibu + Bacardi as the coconut variant; other components carry over from the Mojito.",
+    "source": "Signature & Common Drinks",
+    "raw": "Mojito \n6 Mint Leaves  \n1 Lime Wedge  \n3/4 oz Agave  \n.5 oz Lime Juice  \nSplash Sprite  \n2 oz of Soda  \n2 oz Bacardi  \n \n***Coconut Mojitos  \n1 oz Malibu  \n1 oz Bacardi",
+    "image": ""
+  },
+  {
+    "id": "drink-mexican-mule",
+    "name": "Mexican Mule",
+    "kind": "drink",
+    "category": "Additional PDF Recipes",
+    "page": 35,
+    "description": "House recipe from the Don Coqui drinks training PDF.",
+    "ingredients": [
+      "2.5 tequila",
+      "1 oz lime juice",
+      "Half of a big can of ginger beer"
+    ],
+    "glass": "Mule Cup",
+    "garnish": "",
+    "method": "",
+    "notes": "The PDF says substitute tequila for vodka; confirm the unspecified unit and can size.",
+    "source": "Signature & Common Drinks",
+    "raw": "Muscle Mule  \n \n2.5 Vodka \n1 oz Lime Juice  \nHalf of Big Can of Ginger beer  \n \n \n \n**Mule Cup \n \n \n \n***Mexican Mule sub Vodka for Tequila",
+    "image": ""
+  },
+  {
+    "id": "drink-summer-spritz",
+    "name": "Summer Spritz",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "description": "St. Germain elderflower liqueur, Prosecco, Sparkling water, Fresh mint, Lime",
+    "ingredients": [
+      "St. Germain elderflower liqueur",
+      "Prosecco",
+      "Sparkling water",
+      "Fresh mint",
+      "Lime"
+    ],
+    "menuIngredients": [
+      "St. Germain elderflower liqueur",
+      "Prosecco",
+      "Sparkling water",
+      "Fresh mint",
+      "Lime"
+    ],
+    "menuSource": "Uploaded cocktail menu photo",
+    "source": "Cocktail menu photo",
+    "page": null,
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
+    "raw": ""
+  },
+  {
+    "id": "drink-trouble-in-paradise",
+    "name": "Trouble in Paradise",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "description": "Buchanan’s Pineapple, Ilegal Mezcal, Lime, Mango juice, Pineapple juice",
+    "ingredients": [
+      "Buchanan’s Pineapple",
+      "Ilegal Mezcal",
+      "Lime",
+      "Mango juice",
+      "Pineapple juice"
+    ],
+    "menuIngredients": [
+      "Buchanan’s Pineapple",
+      "Ilegal Mezcal",
+      "Lime",
+      "Mango juice",
+      "Pineapple juice"
+    ],
+    "menuSource": "Uploaded cocktail menu photo",
+    "source": "Cocktail menu photo",
+    "page": null,
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
+    "raw": ""
+  },
+  {
+    "id": "drink-classic-smoked-old-fashioned",
+    "name": "Classic Smoked Old Fashioned",
+    "kind": "drink",
+    "category": "Signature Cocktails",
+    "description": "Redemption Bourbon, Angostura bitters, Orange bitters, Agave, Luxardo cherry, Fresh orange peel, Oak wood smoke",
+    "ingredients": [
+      "Redemption Bourbon",
+      "Angostura bitters",
+      "Orange bitters",
+      "Agave",
+      "Luxardo cherry",
+      "Fresh orange peel",
+      "Oak wood smoke"
+    ],
+    "menuIngredients": [
+      "Redemption Bourbon",
+      "Angostura bitters",
+      "Orange bitters",
+      "Agave",
+      "Luxardo cherry",
+      "Fresh orange peel",
+      "Oak wood smoke"
+    ],
+    "menuSource": "Uploaded cocktail menu photo",
+    "source": "Cocktail menu photo",
+    "page": null,
+    "glass": "",
+    "garnish": "Luxardo cherry and fresh orange peel",
+    "method": "Smoked tableside with oak wood smoke.",
+    "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
+    "raw": ""
+  },
+  {
+    "id": "drink-coquitini",
+    "name": "Coquitini",
+    "kind": "drink",
+    "category": "Classic Cocktails",
+    "description": "Coconut vodka, Condensed milk, Coco Lopez, Cinnamon, Toasted almond",
+    "ingredients": [
+      "Coconut vodka",
+      "Condensed milk",
+      "Coco Lopez",
+      "Cinnamon",
+      "Toasted almond"
+    ],
+    "menuIngredients": [
+      "Coconut vodka",
+      "Condensed milk",
+      "Coco Lopez",
+      "Cinnamon",
+      "Toasted almond"
+    ],
+    "menuSource": "Uploaded cocktail menu photo",
+    "source": "Cocktail menu photo",
+    "page": null,
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
+    "raw": ""
+  },
+  {
+    "id": "drink-rum-punch",
+    "name": "Rum Punch",
+    "kind": "drink",
+    "category": "Classic Cocktails",
+    "description": "Bacardi Spiced Rum, Coconut rum, Light rum, Grenadine, Orange juice, Pineapple juice, Cranberry juice",
+    "ingredients": [
+      "Bacardi Spiced Rum",
+      "Coconut rum",
+      "Light rum",
+      "Grenadine",
+      "Orange juice",
+      "Pineapple juice",
+      "Cranberry juice"
+    ],
+    "menuIngredients": [
+      "Bacardi Spiced Rum",
+      "Coconut rum",
+      "Light rum",
+      "Grenadine",
+      "Orange juice",
+      "Pineapple juice",
+      "Cranberry juice"
+    ],
+    "menuSource": "Uploaded cocktail menu photo",
+    "source": "Cocktail menu photo",
+    "page": null,
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
+    "raw": ""
+  },
+  {
+    "id": "drink-strawberry-margarita-frozen",
+    "name": "Strawberry Margarita (Frozen)",
+    "kind": "drink",
+    "category": "Frozen Drinks",
+    "description": "Listed on the menu as a frozen drink. A complete house recipe is not supplied.",
+    "ingredients": [],
+    "menuIngredients": [],
+    "menuSource": "Uploaded cocktail menu photo",
+    "source": "Cocktail menu photo",
+    "page": null,
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
+    "raw": ""
+  },
+  {
+    "id": "drink-mango-margarita-frozen",
+    "name": "Mango Margarita (Frozen)",
+    "kind": "drink",
+    "category": "Frozen Drinks",
+    "description": "Listed on the menu as a frozen drink. A complete house recipe is not supplied.",
+    "ingredients": [],
+    "menuIngredients": [],
+    "menuSource": "Uploaded cocktail menu photo",
+    "source": "Cocktail menu photo",
+    "page": null,
+    "glass": "",
+    "garnish": "",
+    "method": "",
+    "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
+    "raw": ""
+  }
+]
