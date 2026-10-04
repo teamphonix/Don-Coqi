@@ -11,7 +11,7 @@ async function geminiFailure(res){
  if(res.status===400||res.status===401||reason==='API_KEY_INVALID'||reason==='API_KEY_EXPIRED')error='Gemini rejected the API key or request. Check that GEMINI_API_KEY is a valid AI Studio key and JARI_MODEL is a Gemini model.';
  if(res.status===403)error='Gemini denied access. Check the key’s API restrictions and that the Generative Language API is enabled for its project.';
  if(res.status===404)error='The configured Gemini model is unavailable. Check JARI_MODEL in Vercel.';
- if(res.status===429)error=zeroQuota?'Gemini reports zero quota for this model/project. Check free-tier model availability in AI Studio.':'Gemini’s quota or rate limit was reached. Check the project’s free-tier limits in AI Studio or try again later.';
+ if(res.status===429)error='Gemini Free API has reached its limit. (Complete Model Available with Company Subscription)';
  // Never forward raw provider messages, request URLs, or key values.
  return json({error,provider:'gemini',upstreamStatus:res.status,...(reason?{reason}:{}),...(zeroQuota?{zeroQuota:true}:{})},502);
 }
@@ -58,7 +58,7 @@ ${JSON.stringify(reference)}`;
       payload.system_instruction.parts[0].text+=' Live web research is unavailable for this request. Do not claim to have searched; identify general knowledge and uncertainty.';
       res=await fetch('https://generativelanguage.googleapis.com/v1beta/models/'+encodeURIComponent(model)+':generateContent',{method:'POST',headers:{'Content-Type':'application/json','x-goog-api-key':env.GEMINI_API_KEY},body:JSON.stringify(payload),signal:requestSignal()});
      }
-     if(!res.ok){if(reply){finishReason='MAX_TOKENS';break}return geminiFailure(res)}
+     if(!res.ok){if(reply){finishReason='MAX_TOKENS';if(res.status===429)reply+='\n\nGemini Free API has reached its limit. (Complete Model Available with Company Subscription)';break}return geminiFailure(res)}
      const data=await res.json(),candidate=data.candidates?.[0];
      const raw=candidate?.content?.parts?.filter(p=>!p.thought).map(p=>p.text||'').join('')||'';
      const meta=candidate?.groundingMetadata;

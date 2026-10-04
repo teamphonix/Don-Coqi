@@ -25,7 +25,7 @@ for (const code of [400, 403, 404, 429]) {
   const result = await invoke(jari, 'POST', {message:'Churrasco'});
   assert.equal(result.body.upstreamStatus, code);
   assert.ok(!JSON.stringify(result.body).includes('private-key-must-not-leak'));
-  if(code===429) assert.equal(result.body.zeroQuota, true);
+  if(code===429){assert.equal(result.body.zeroQuota,true);assert.match(result.body.error,/Complete Model Available with Company Subscription/)}
 }
 globalThis.fetch = async () => new Response(JSON.stringify({candidates:[{content:{parts:[{text:'Guest: What do you recommend?'}]}}]}), {status:200});
 assert.equal((await invoke(jari, 'POST', {message:'Start a table',mode:'mock'})).body.provider, 'gemini');
