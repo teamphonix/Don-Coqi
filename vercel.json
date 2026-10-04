@@ -3,5 +3,5 @@
   "framework": null,
   "buildCommand": "npm run build",
   "outputDirectory": "public",
-  "functions": { "api/*.js": { "maxDuration": 90 } }
+  "functions": { "api/*.js": { "maxDuration": 180 } }
 }

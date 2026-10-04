@@ -6,6 +6,6 @@
   "engines": { "node": "24.x" },
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node scripts/verify.mjs && node scripts/verify-vercel.mjs"
+    "test": "node scripts/verify.mjs && node scripts/verify-vercel.mjs && node scripts/verify-jari.mjs"
   }
 }
