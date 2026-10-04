@@ -114,6 +114,18 @@ vm.runInContext('flipFlash()',context);
 assert.equal(vm.runInContext('state.flipped',context),false);
 assert.equal(node('#flash-review').hidden,true);
 assert(!node('#main').innerHTML.includes('Reveal answer'));
+const flashGestureEvent=(x,y)=>({...gesture(x,y),target:{closest:()=>node('#flash-card')},preventDefault(){}});
+const flashIndex=vm.runInContext('state.index',context);
+node('#main').listeners.pointerdown(flashGestureEvent(250,150));node('#main').listeners.pointerup(flashGestureEvent(100,155));
+assert.equal(vm.runInContext('state.index',context),flashIndex+1);assert.equal(vm.runInContext('state.flipped',context),false);
+node('#main').listeners.pointerdown(flashGestureEvent(100,150));node('#main').listeners.pointerup(flashGestureEvent(250,155));
+assert.equal(vm.runInContext('state.index',context),flashIndex);
+node('#main').listeners.pointerdown(flashGestureEvent(250,150));node('#main').listeners.pointermove(flashGestureEvent(230,280));node('#main').listeners.pointerup(flashGestureEvent(100,155));
+assert.equal(vm.runInContext('state.index',context),flashIndex);
+node('#main').listeners.pointerdown(flashGestureEvent(250,150));node('#main').listeners.pointercancel();node('#main').listeners.pointerup(flashGestureEvent(100,155));
+assert.equal(vm.runInContext('state.index',context),flashIndex);
+vm.runInContext('state.index=0;flashMove(-1)',context);assert.equal(vm.runInContext('state.index===state.deck.length-1',context),true);
+
 context.URL=URL;context.navigator={language:'en-US'};
 vm.runInContext("navigate('jari');",context);
 assert.match(node('#main').innerHTML,/Live Coach/);assert.match(node('#main').innerHTML,/voice-input/);
