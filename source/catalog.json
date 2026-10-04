@@ -1337,7 +1337,11 @@
     "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
     "source": "Signature & Common Drinks",
     "raw": "Coquito Old Fashioned \n.75 Bacardi Gold \n.75 coconut cartel \n.75 cut and dry \n.25 spiced CS (cinnamon syrup) \n.5 oz Coconut water 3 \ndashes Ango bitters \n3 dashes orange bitters \nGlass: Rocks \nGarnish: Orange Peel/Flamed cinnamon stick \nMethod: Pour all into mixing glass. Add ice and stir till chilled. Strain \nover clean ice and garnish",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Orange peel",
+      "Flamed cinnamon stick"
+    ]
   },
   {
     "id": "drink-french-kiss",
@@ -1367,7 +1371,12 @@
       "Pineapple juice",
       "Lime juice"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Pineapple leaf",
+      "Dried lime",
+      "Brandied cherry"
+    ]
   },
   {
     "id": "drink-kiwi-crush",
@@ -1389,7 +1398,12 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Kiwi Crush \n1.75 oz 21 Seeds \n1 oz St Germain \n1 oz Kiwi \n1 oz Lime \n2 Fresh \nCucumber \nSlices in shaker and \nshake \nGlass: Rock \nGarish: Rim, Half-Tajin, Sprig, Mint, Dehydrated Citrus \nMethod: Pour all ingredients into a shaker. Add ice and shake, open \nshaker and Pour all into the glass.",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Half Tajín rim",
+      "Mint sprig",
+      "Dehydrated citrus"
+    ]
   },
   {
     "id": "drink-coco-loco-mule",
@@ -1420,7 +1434,11 @@
       "Fresh lime",
       "Mint"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Fresh mint",
+      "Dried lime"
+    ]
   },
   {
     "id": "drink-passion-en-fuego",
@@ -1450,7 +1468,10 @@
       "Angostura bitters",
       "Lime"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Cinnamon stick"
+    ]
   },
   {
     "id": "drink-pretty-in-pink",
@@ -1483,7 +1504,11 @@
       "Lime",
       "Guava"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Lychee",
+      "Dried lemon"
+    ]
   },
   {
     "id": "drink-midnight-in-san-juan",
@@ -1503,7 +1528,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Midnight in San Juan \n2 oz Ketel One \n1 oz Kahlúa \n1oz Espresso \nGlass: Coupe \nGarnish: espresso beans \nMethod: Shake all ingredients and double strain into a coupe",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Espresso beans"
+    ]
   },
   {
     "id": "drink-the-don",
@@ -1535,7 +1563,12 @@
       "Agave",
       "Pinch of salt"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Salt on side of glass",
+      "Upside-down Don Julio 1942 mini bottle",
+      "Dried lime"
+    ]
   },
   {
     "id": "drink-vivir-so-ando",
@@ -1565,7 +1598,10 @@
       "Agave nectar",
       "Campari"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Dried lime"
+    ]
   },
   {
     "id": "drink-sunset-on-the-hudson",
@@ -1656,7 +1692,11 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Blue Coconut \nMargarita \n1 oz DonJulio Blanco \n1 oz Blue curaçao \n1 oz Coconut \npuree 1 oz Lime \nGlass: rocks glass \nMethod: Shake all ingredients together and then double strain over ice \nGarnish: sugar rim with orange wedge",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Sugar rim",
+      "Orange wedge"
+    ]
   },
   {
     "id": "drink-spicy-se-orita",
@@ -1689,7 +1729,10 @@
       "Lime juice",
       "Fresh jalapeño"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Fresh watermelon wedges"
+    ]
   },
   {
     "id": "drink-pitaya-island",
@@ -1711,7 +1754,11 @@
     "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
     "source": "Signature & Common Drinks",
     "raw": "Pitaya Island \n1 oz Pitaya syrup \n1 oz Passion fruit puree \n1 oz Lime juice \n1 oz Club soda \n.5 Agave \nGlass: rocks glass \nMethod: Shake all ingredients together \nand pour \nGarnish: Orange slice and pineapple leaf",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Orange slice",
+      "Pineapple leaf"
+    ]
   },
   {
     "id": "drink-tropical-vanilla-passion",
@@ -1732,7 +1779,10 @@
     "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
     "source": "Signature & Common Drinks",
     "raw": "Tropical Vanilla Passion \n.25 Vanilla Real \n.5 oz Passion fruit Real \n2 oz Lemonade \nTop with Ginger beer \nGlass: Mule Cup \nMethod: Shake all ingredients together and then top with ginger \nbeer \nGarnish: Mint Leef",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Mint leaf"
+    ]
   },
   {
     "id": "drink-don-coqui-nojito",
@@ -1754,7 +1804,10 @@
     "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
     "source": "Signature & Common Drinks",
     "raw": "Don Coqui Nojito \n1 oz Lime juice \n1 oz Agave \n6 muddled mint leaves \n2 oz Club soda \n1 oz Sprite \nGlass: Mason Jar \nMethod: Shake all ingredients together and top \nwith soda and sprite \nGarnish: Lime",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Lime"
+    ]
   },
   {
     "id": "drink-apple-cider-spritz",
@@ -1776,7 +1829,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Apple Cider Spritz \n4 oz Apple Cider \n.5 oz Aperol \n.5 oz St Germaine \n.5 oz Cin Simple \nShake then \nTop off w/ 3 oz Prosseco \nGlass: Wine Glass with Ice \nMethod: Shake and top with Prosecco. \nGarnish: Sangria Apples",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Sangria apples"
+    ]
   },
   {
     "id": "drink-fireside-mule",
@@ -1808,7 +1864,10 @@
       "Ginger beer",
       "Toasted marshmallows"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Toasted marshmallow"
+    ]
   },
   {
     "id": "drink-margarita",
@@ -1895,7 +1954,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Negroni \n1.5 oz Gin \n4 Dashes Orange Bitters  \n1 oz Sweet Vermouth  \n1 oz Campari  \n \n \n***Rocks Glass (big ice cube) \n \n   Garnish with Orange Peel",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Orange peel"
+    ]
   },
   {
     "id": "drink-old-fashioned",
@@ -1916,7 +1978,11 @@
     "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
     "source": "Signature & Common Drinks",
     "raw": "Old Fashioned  \n2 oz Bourbon  \n4 Dashes Orange Bitters  \n2 Dashes Angostura \n.25 Simple Syrup  \n \n \n***Rocks Glass (big ice cube) \nGarnish Dark Cherry and Orange Skin Peel*** Very Important",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Dark cherry",
+      "Orange peel"
+    ]
   },
   {
     "id": "drink-manhattan",
@@ -1938,7 +2004,10 @@
     "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
     "source": "Signature & Common Drinks",
     "raw": "Manhattan  \nStir (don’t shake) \n2 oz Bourbon  \n1 oz Sweet Vermouth  \n2 Dashes Angostura \n4 Dashes Orange Bitters  \n.25 Agave \n \n \n***GOES IN A MARTINI GLASS \n \nGarnish Dark Cherry",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Dark cherry"
+    ]
   },
   {
     "id": "drink-cosmo",
@@ -1980,7 +2049,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Dirty Martini \n \n4 oz Vodka or Gin \n¾ oz Olive Juice  \n \n \n**Martini Glass \n \nGarnish 3 olives",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "3 olives"
+    ]
   },
   {
     "id": "drink-dry-martini",
@@ -1999,7 +2071,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Dry Martini  \n \n4 oz Vodka or Gin \n.25 oz Dry Vermouth  \n \n \n \n*** Martini Glass \nGarnish 3 olives",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "3 olives"
+    ]
   },
   {
     "id": "drink-extra-dry-martini",
@@ -2018,7 +2093,10 @@
     "notes": "The house recipe specifically says shake, using the glass rinsed with dry vermouth.",
     "source": "Signature & Common Drinks",
     "raw": "Extra Dry Martini  \n \nDry Vermouth in Glass      \nThen Throw Out  \nShake 4oz of Vodka or Gin  \n \n \n \n                   \n \n***Shake and Put in Same Glass where the Dry Vermouth was in. \n \nGarnish 3 olives",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "3 olives"
+    ]
   },
   {
     "id": "drink-french-martini",
@@ -2246,7 +2324,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Aperol Spritz \n \n1.5 oz Aperol \nFill Wine Glass with Ice  \n3/4 of Glass Fill with Prosecco  \nFinish it off with Soda \n2 Dashes of Orange Bitters  \n****Garnish with Orange",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Orange"
+    ]
   },
   {
     "id": "drink-paloma",
@@ -2287,7 +2368,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Lychee Martini \n \n2 oz Vodka \n     1 oz St Germain \n     2 oz Lychee Syrup from Lychee Can  \n     \nGarnish with Lychee",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Lychee"
+    ]
   },
   {
     "id": "drink-red-sangria",
@@ -2307,7 +2391,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "Red Sangria  \n \nFill mason jar with ice  \n7oz Red Sangria \n  \n1oz Passion  \n1 oz Orange \n \n \n \nGarnish with Green Apples cut in ½” cubes.",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Green apple cubes (½ inch)"
+    ]
   },
   {
     "id": "drink-white-sangria",
@@ -2327,7 +2414,10 @@
     "notes": "",
     "source": "Signature & Common Drinks",
     "raw": "White Sangria  \n \nFill mason jar with ice  \n7oz White Sangria \n1oz Passion  \n1 oz Orange \n \n \n \nGarnish with Green Apples cut in ½” cubes.",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Green apple cubes (½ inch)"
+    ]
   },
   {
     "id": "drink-mistle-toe-martini",
@@ -2352,7 +2442,11 @@
     "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
     "source": "Signature & Common Drinks",
     "raw": "Mistle Toe Martini  \n \n1 oz Bacardi spiced \n1 oz Malibu \n.75 oz lime juice \n.5 strawberry \n.5 coco \n1.5 oz pineapple juice \n.5 peppermint \n \n \n \nMartini glass rimed w blended candy cane \n \n \nShake top with sparkling cranberry \n \n \nGarnish with rosemary sprig and sugared cranberries",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Rosemary sprig",
+      "Sugared cranberries"
+    ]
   },
   {
     "id": "drink-white-christmas",
@@ -2374,7 +2468,11 @@
     "notes": "Some quantities omit a unit in the PDF; confirm the house measure.",
     "source": "Signature & Common Drinks",
     "raw": "White Christmas \n \n \n1.5 oz casamigos \n1 oz coconut \n1 oz coconut water \n.5 lime juice \n.5 orange liqueur \n \nSugar on rim of rocks glass \n \nGarnished with rosemary and cranberry",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Rosemary",
+      "Cranberry"
+    ]
   },
   {
     "id": "drink-besos",
@@ -2407,7 +2505,10 @@
       "Agave",
       "Shot of Prosecco"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Orange"
+    ]
   },
   {
     "id": "drink-la-diabla",
@@ -2468,7 +2569,11 @@
       "Grapefruit",
       "Agave"
     ],
-    "menuSource": "Uploaded cocktail menu photo"
+    "menuSource": "Uploaded cocktail menu photo",
+    "garnishes": [
+      "Half Tajín rim",
+      "Dragon fruit on a stick"
+    ]
   },
   {
     "id": "drink-island-matcha",
@@ -2489,7 +2594,11 @@
     "notes": "Conflict: ingredient list says “0 oz Club Soda,” while procedure says top with soda. Soda quantity requires bar confirmation.",
     "source": "Signature & Common Drinks",
     "raw": "Island Matcha \n \n2oz     Yoshi Match Liq \n1oz     1800 Coconut \n.75oz  Pineapple Juice \n \n.25oz  Simple Syrup  \n0 oz    Club Soda \n \n \nGlass: Highball (11oz) \n \nGarnish: Half Rim, Black Salt, Sprig, Mint \n \nProcedure: Rim Glass, combine in Mixing Tin, Except Soda, Shake w/ \nIce, Top w/ Soda",
-    "image": ""
+    "image": "",
+    "garnishes": [
+      "Half black salt rim",
+      "Mint sprig"
+    ]
   },
   {
     "id": "drink-coconut-mojito",
@@ -2625,7 +2734,11 @@
     "garnish": "Luxardo cherry and fresh orange peel",
     "method": "Smoked tableside with oak wood smoke.",
     "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
-    "raw": ""
+    "raw": "",
+    "garnishes": [
+      "Luxardo cherry",
+      "Fresh orange peel"
+    ]
   },
   {
     "id": "drink-coquitini",

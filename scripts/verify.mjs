@@ -82,4 +82,27 @@ assert.equal(catalog.filter(d=>d.special).length,8);assert(!catalog.some(d=>d.na
 assert.deepEqual(catalog.find(d=>d.id==='food-boneless-chicken-bites').ingredients,['Chicken bites','Calypso sauce']);
 assert.equal(catalog.find(d=>d.id==='food-roast-pork').image,'/media/churrasco.jpg');
 assert.equal(catalog.find(d=>d.id==='food-churrasco').image,'');
+// Garnish rounds use garnish data, not liquid recipe ingredients, with independent scores.
+vm.runInContext("navigate('garnish');",context);
+assert.match(node('#main').innerHTML,/Finish the cocktail/);
+assert.equal(vm.runInContext('state.game.mode',context),'garnish');
+assert.equal(vm.runInContext("eligible('drink').length",context),11);
+assert(vm.runInContext('state.game.answers.every(a=>state.game.target.garnishes.includes(a))',context));
+vm.runInContext('state.game.selected=[...state.game.answers];lockGame()',context);
+assert.match(node('#main').innerHTML,/Perfect garnish/);
+assert.equal(vm.runInContext('saved.garnish',context),100);
+vm.runInContext('setupGame();state.game.selected=[];lockGame()',context);
+assert.equal(vm.runInContext('state.game.lives',context),2);
+assert.equal(vm.runInContext('state.game.correct',context),false);
+vm.runInContext('setupGame(true,true);state.game.selected=[...state.game.answers,state.game.choices.find(c=>!state.game.answers.includes(c))];lockGame()',context);
+assert.equal(vm.runInContext('state.game.correct',context),false);
+vm.runInContext("state.garnishCategory='All';setupGame(true);",context);
+assert.equal(vm.runInContext("eligible('drink').length",context),32);
+assert(!vm.runInContext("eligible('drink').some(d=>['drink-french-75','drink-porn-star-martini','drink-sunset-on-the-hudson'].includes(d.id))",context));
+vm.runInContext("navigate('cocktail');",context);
+assert.equal(vm.runInContext('state.game.mode',context),'cocktail');
+assert(vm.runInContext('state.game.answers.every(a=>state.game.target.ingredients.includes(a))',context));
+vm.runInContext("navigate('garnish');stopTimer();renderGame();",context);
+assert.equal(vm.runInContext('state.game.paused',context),true);
+assert.match(node('#main').innerHTML,/clock is paused/);
 console.log('PASS: menu search, games, filtered food/drink card navigation, swipe directions, vertical scrolling, cancellation, wraparound and keyboard controls.');
