@@ -105,4 +105,13 @@ assert(vm.runInContext('state.game.answers.every(a=>state.game.target.ingredient
 vm.runInContext("navigate('garnish');stopTimer();renderGame();",context);
 assert.equal(vm.runInContext('state.game.paused',context),true);
 assert.match(node('#main').innerHTML,/clock is paused/);
+vm.runInContext("navigate('flashcards');state.flipped=false;renderFlash();flipFlash();",context);
+assert.equal(vm.runInContext('state.flipped',context),true);
+assert.equal(node('#flash-card').attrs['aria-pressed'],'true');
+assert.equal(node('#flash-back').attrs['aria-hidden'],'false');
+assert.equal(node('#flash-review').hidden,false);
+vm.runInContext('flipFlash()',context);
+assert.equal(vm.runInContext('state.flipped',context),false);
+assert.equal(node('#flash-review').hidden,true);
+assert(!node('#main').innerHTML.includes('Reveal answer'));
 console.log('PASS: menu search, games, filtered food/drink card navigation, swipe directions, vertical scrolling, cancellation, wraparound and keyboard controls.');
