@@ -1,0 +1,147 @@
+{
+  "source": "Four current restaurant menu photos supplied October 3, 2026",
+  "foodCards": 73,
+  "specials": 8,
+  "drinkCards": 63,
+  "removed": [
+    "Puerto Rican Seafood Salad",
+    "Shrimp Cocktail",
+    "Little Neck Clams",
+    "Seafood Tower — Full",
+    "Seafood Tower — Half",
+    "Signature Chopped Salad",
+    "Mofongo with Shrimp",
+    "Free Range Citrus Chicken Breast",
+    "Enchilado Sauce",
+    "Sautéed Vegetables",
+    "Mac and Cheese with Lobster",
+    "Flan Brulé",
+    "Passion Fruit Tres Leches",
+    "Flourless Chocolate Cake",
+    "Churros"
+  ],
+  "added": [
+    "Ceviche de Chicharrón",
+    "Ropa Vieja Croquettes",
+    "Churrasco Taquitos",
+    "Don Coqui Roll",
+    "Salmon Caribbean Roll",
+    "Shrimp Tempura Roll",
+    "Red Shrimp Ceviche",
+    "Avocado Salad",
+    "Filet Mignon Lomo Saltado",
+    "Saffron Garlic Butter",
+    "Sautéed Garlic Spinach",
+    "Pumpkin Tres Leches",
+    "Three Layer Chocolate",
+    "Coconut Rum Cake",
+    "Guava Bread Pudding",
+    "Ice Cream",
+    "Spicy Tuna & Avocado Montaditos",
+    "Baby Back Ribs",
+    "Puerto Rican Pernil Empanadas",
+    "Filet Mignon & Wild Mushroom Taquitos",
+    "Havana Chicken",
+    "Lobster Pasta",
+    "36 oz Prime Porter House Steak",
+    "Espresso",
+    "Assorted Tea",
+    "Coffee",
+    "Latte"
+  ],
+  "renamed": [
+    {
+      "from": "Empanada Duo",
+      "to": "Empanadas Duo"
+    },
+    {
+      "from": "Piononos",
+      "to": "Piononos Maduros"
+    },
+    {
+      "from": "Boneless Chicken Bites",
+      "to": "Boneless Crispy Chicken"
+    },
+    {
+      "from": "Don Coqui Montaditos Mar e Tierra",
+      "to": "Montaditos Mar y Tierra"
+    },
+    {
+      "from": "Pulpo al Grill",
+      "to": "Grilled Octopus"
+    },
+    {
+      "from": "Tuna Watermelon Ceviche",
+      "to": "Tuna & Watermelon Ceviche"
+    },
+    {
+      "from": "Spiced Rum Glaze Grilled Salmon",
+      "to": "Spice Rum Glaze Grilled Salmon"
+    },
+    {
+      "from": "Lobster & Shrimp Fried Rice",
+      "to": "Lobster & Shrimp Chino Latino Rice"
+    },
+    {
+      "from": "Oxtail — Rabo Guisado",
+      "to": "Oxtail"
+    },
+    {
+      "from": "Churrasco",
+      "to": "Skirt Steak"
+    },
+    {
+      "from": "Bistec Encebollado",
+      "to": "Steak and Onions"
+    },
+    {
+      "from": "Prime Black Angus NY Strip",
+      "to": "14 oz Prime Black Angus Sirloin Steak"
+    },
+    {
+      "from": "Jumbo Shrimp Criollo",
+      "to": "Grilled Jumbo Shrimp"
+    },
+    {
+      "from": "Australian Lamb Chops",
+      "to": "Grilled Marinated Lamb Chops"
+    },
+    {
+      "from": "Red Wine Sofrito Steak Sauce",
+      "to": "Red Wine Sauce"
+    },
+    {
+      "from": "Fried Green Plantains — Tostones",
+      "to": "Tostones Garlic Mojo"
+    },
+    {
+      "from": "Sweet Plantains — Maduros",
+      "to": "Maduros"
+    },
+    {
+      "from": "Mac and Cheese",
+      "to": "Mac & Cheese"
+    },
+    {
+      "from": "Yuca Mash with Manchego",
+      "to": "Yuca Mashed au Gratin with Manchego Cheese"
+    },
+    {
+      "from": "Wild Mushrooms",
+      "to": "Wild Mushroom Sauté"
+    },
+    {
+      "from": "Flan de Coco",
+      "to": "Coconut Flan"
+    },
+    {
+      "from": "Dulce de Leche Cheesecake",
+      "to": "Dulce de Leche Cheese Cake"
+    }
+  ],
+  "limitations": [
+    "Caesar Salad description is cut off in the photo.",
+    "No replacement cocktail menu supplied; existing cocktails retained.",
+    "Sauces and sides are named without complete recipes."
+  ]
+}

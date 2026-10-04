@@ -1,1121 +1,1319 @@
 [
   {
+    "id": "food-ceviche-de-chicharron",
+    "name": "Ceviche de Chicharrón",
+    "kind": "food",
+    "category": "Starters",
+    "price": 18,
+    "description": "Crispy golden chicharrón tossed in a citrus marinade with fresh lime juice, red onions, cilantro and a touch of chili. Served with tostones and a dash of guacamole.",
+    "ingredients": [
+      "Chicharrón",
+      "Lime juice",
+      "Red onions",
+      "Cilantro",
+      "Chili",
+      "Tostones",
+      "Guacamole"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
     "id": "food-guacamole",
     "name": "Guacamole",
     "kind": "food",
     "category": "Starters",
-    "page": 1,
-    "description": "Mashed ripe avocado with red onion, deseeded tomato, cilantro and lime. Served with plantain, yuca, tortilla and malanga chips; topped with pico de gallo (white onion, tomato, cilantro, lime juice and olive oil).",
+    "price": 16,
+    "description": "Mashed ripe avocado, red onion, lime and cilantro, served with artisanal corn tortilla, yuca and Caribbean chips, mango and pineapple pico de gallo.",
     "ingredients": [
       "Avocado",
       "Red onion",
-      "Tomato",
-      "Cilantro",
       "Lime",
-      "Pico de gallo"
+      "Cilantro",
+      "Corn tortilla chips",
+      "Yuca chips",
+      "Caribbean chips",
+      "Mango and pineapple pico de gallo"
     ],
-    "notes": "The PDF specifically states the yuca chips are not gluten free. Confirm preparation and cross-contact with the kitchen.",
+    "notes": "",
     "image": "/media/guacamole.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-empanada-duo",
-    "name": "Empanada Duo",
+    "name": "Empanadas Duo",
     "kind": "food",
     "category": "Starters",
-    "page": 1,
-    "description": "Beef: sofrito (onion, bell pepper, garlic, cilantro, oil), raisins, olives, Goya seasoning and tomato sauce. Chicken: green and red bell peppers, tomato sauce/paste, onions and chipotle. Shrimp & crab: lump crab cooked in tomato sauce, peppers, onions and cilantro.",
+    "price": 12,
+    "description": "Choice of beef picadillo, chicken fricassee, vegan, cheese, crabmeat and shrimp.",
     "ingredients": [
-      "Beef",
-      "Chicken",
-      "Sofrito",
-      "Raisins",
-      "Olives",
-      "Tomato sauce"
+      "Beef picadillo filling",
+      "Chicken fricassee filling",
+      "Vegan filling",
+      "Cheese filling",
+      "Crabmeat and shrimp filling"
     ],
-    "notes": "The PDF lists three filling options; confirm the current duo selection with the kitchen. Game uses beef and chicken core components.",
+    "notes": "These are filling choices, not ingredients combined in one empanada. Confirm the selected duo and full filling recipes.",
     "image": "/media/empanada-duo.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-coconut-shrimp",
     "name": "Coconut Shrimp",
     "kind": "food",
     "category": "Starters",
-    "page": 2,
-    "description": "Five jumbo shrimp breaded with egg whites, sweet shredded coconut and panko. Served on a hanger with sweet chili sauce (sweet chili, coconut milk, ginger, lime zest) and spicy tomato dipping sauce.",
+    "price": 19,
+    "description": "Coconut shrimp with sweet chili sauce.",
     "ingredients": [
-      "Jumbo shrimp",
-      "Egg whites",
-      "Shredded coconut",
-      "Panko",
-      "Sweet chili sauce",
-      "Spicy tomato dipping sauce"
+      "Shrimp",
+      "Coconut",
+      "Sweet chili sauce"
     ],
     "notes": "",
     "image": "/media/coconut-shrimp.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-boneless-chicken-bites",
-    "name": "Boneless Chicken Bites",
-    "kind": "food",
-    "category": "Starters",
-    "page": 2,
-    "description": "Crispy fried dark or white chicken marinated in buttermilk, salt, pepper, onion powder and garlic powder. Tossed in a gluten-free flour mix; served with lemon garlic aioli (lemon, mayo, garlic) and mayo ketchup.",
-    "ingredients": [
-      "Chicken",
-      "Buttermilk",
-      "Onion powder",
-      "Garlic powder",
-      "Gluten-free flour mix",
-      "Lemon garlic aioli",
-      "Mayo ketchup"
-    ],
-    "notes": "A gluten-free flour mix does not establish that the finished dish or shared fryer is safe for a gluten allergy.",
-    "image": "/media/boneless-chicken-bites.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-piononos",
-    "name": "Piononos",
+    "name": "Piononos Maduros",
     "kind": "food",
     "category": "Starters",
-    "page": 3,
-    "description": "Sweet plantain balls filled with beef, peppers, onions, raisins and tomato sauce.",
+    "price": 18,
+    "description": "Sweet plantain with Angus ground beef, Creole sauce and cheese sauce.",
     "ingredients": [
       "Sweet plantain",
-      "Beef",
-      "Peppers",
-      "Onions",
-      "Raisins",
-      "Tomato sauce"
+      "Angus ground beef",
+      "Creole sauce",
+      "Cheese sauce"
     ],
     "notes": "",
     "image": "/media/piononos.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-boneless-chicken-bites",
+    "name": "Boneless Crispy Chicken",
+    "kind": "food",
+    "category": "Starters",
+    "price": 15,
+    "description": "Chicken bites served with Calypso sauce.",
+    "ingredients": [
+      "Chicken bites",
+      "Calypso sauce"
+    ],
+    "notes": "",
+    "image": "/media/boneless-chicken-bites.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-ropa-vieja-croquettes",
+    "name": "Ropa Vieja Croquettes",
+    "kind": "food",
+    "category": "Starters",
+    "price": 16,
+    "description": "Braised beef with peppers, Manchego, mozzarella cheese and guava chipotle sauce.",
+    "ingredients": [
+      "Braised beef",
+      "Peppers",
+      "Manchego",
+      "Mozzarella",
+      "Guava chipotle sauce"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-calamari",
     "name": "Calamari",
     "kind": "food",
     "category": "Starters",
-    "page": 3,
-    "description": "Calamari marinated and floured the same way as the chicken bites (buttermilk marinade and gluten-free flour mix). Served with mayo ketchup and lemon garlic aioli.",
+    "price": 18,
+    "description": "Dusted with seasoned flour, served with Enchilado sauce and lemon aioli.",
     "ingredients": [
       "Calamari",
-      "Buttermilk",
-      "Gluten-free flour mix",
-      "Mayo ketchup",
-      "Lemon garlic aioli"
+      "Seasoned flour",
+      "Enchilado sauce",
+      "Lemon aioli"
     ],
-    "notes": "Confirm fryer cross-contact and complete ingredients; the flour statement alone is not an allergy safety guarantee.",
+    "notes": "",
     "image": "/media/calamari.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-don-coqui-montaditos-mar-e-tierra",
-    "name": "Don Coqui Montaditos Mar e Tierra",
+    "name": "Montaditos Mar y Tierra",
     "kind": "food",
     "category": "Starters",
-    "page": 3,
-    "description": "Three fried plantains, each topped with grilled skirt steak and grilled shrimp. Served with chimichurri (cilantro, parsley, thyme, roasted red peppers, onion, olive oil, sherry vinegar) and pickled red onions.",
+    "price": 19,
+    "description": "Tostones topped with skirt steak and shrimp, avocado salsa and chimichurri, topped with escabeche.",
     "ingredients": [
-      "Fried plantain",
+      "Tostones",
       "Skirt steak",
-      "Grilled shrimp",
+      "Shrimp",
+      "Avocado salsa",
       "Chimichurri",
-      "Pickled red onion"
+      "Escabeche"
     ],
     "notes": "",
     "image": "/media/don-coqui-montaditos-mar-e-tierra.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-yuca-crab-cake",
     "name": "Yuca Crab Cake",
     "kind": "food",
     "category": "Starters",
-    "page": 4,
-    "description": "Jumbo lump crab mixed with mashed yuca (cassava), minced red and green peppers, onion and cilantro. Panko-breaded and fried. Served with mango-cucumber slaw, spicy lemon aioli and corn salsa. Slaw: mango, cucumber, lemon, oil, salt and pepper. Salsa: roasted corn, red onion, cilantro, lemon and olive oil.",
+    "price": 19,
+    "description": "Jumbo lump crab cakes with spicy lemon garlic aioli and corn salsa.",
     "ingredients": [
+      "Yuca",
       "Jumbo lump crab",
-      "Mashed yuca",
-      "Peppers",
-      "Onion",
-      "Cilantro",
-      "Panko",
-      "Mango-cucumber slaw",
-      "Spicy lemon aioli",
+      "Spicy lemon garlic aioli",
       "Corn salsa"
     ],
     "notes": "",
     "image": "/media/yuca-crab-cake.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-churrasco-taquitos",
+    "name": "Churrasco Taquitos",
+    "kind": "food",
+    "category": "Starters",
+    "price": 19,
+    "description": "Grilled skirt steak with dry chipotle on corn tortillas, topped with pico de gallo.",
+    "ingredients": [
+      "Skirt steak",
+      "Dry chipotle",
+      "Corn tortillas",
+      "Pico de gallo"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-shrimp-al-ajillo",
+    "name": "Shrimp al Ajillo",
+    "kind": "food",
+    "category": "Starters",
+    "price": 19,
+    "description": "Shrimp sautéed in garlic olive oil, oregano and cilantro in Albariño wine sauce.",
+    "ingredients": [
+      "Shrimp",
+      "Garlic",
+      "Olive oil",
+      "Oregano",
+      "Cilantro",
+      "Albariño wine sauce"
+    ],
+    "notes": "",
+    "image": "/media/shrimp-al-ajillo.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-pulpo-al-grill",
+    "name": "Grilled Octopus",
+    "kind": "food",
+    "category": "Starters",
+    "price": 24,
+    "description": "Charred octopus, potato confit, green and black olive herb chimichurri.",
+    "ingredients": [
+      "Octopus",
+      "Potato confit",
+      "Green olives",
+      "Black olives",
+      "Herb chimichurri"
+    ],
+    "notes": "",
+    "image": "/media/pulpo-al-grill.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false,
+    "aliases": [
+      "Pulpo al Grill"
+    ]
   },
   {
     "id": "food-appetizer-platter-for-2",
     "name": "Appetizer Platter for 2",
     "kind": "food",
     "category": "Starters",
-    "page": 4,
-    "description": "Chef’s choice of beef and chicken empanadas, fried calamari, fried chicken chunks (chicharrón de pollo), and shrimp, beef and chicken skewers (two each).",
+    "price": 42,
+    "description": "Beef and chicken empanadas, calamari, boneless chicken chunks, and grilled skewers of chicken, churrasco and shrimp.",
     "ingredients": [
-      "Beef empanada",
-      "Chicken empanada",
-      "Fried calamari",
-      "Fried chicken",
-      "Shrimp skewer",
-      "Beef skewer",
-      "Chicken skewer"
+      "Beef empanadas",
+      "Chicken empanadas",
+      "Calamari",
+      "Boneless chicken chunks",
+      "Chicken skewers",
+      "Churrasco skewers",
+      "Shrimp skewers"
     ],
     "notes": "",
     "image": "/media/appetizer-platter-for-2.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
-    "id": "food-pulpo-al-grill",
-    "name": "Pulpo al Grill",
+    "id": "food-don-coqui-roll",
+    "name": "Don Coqui Roll",
     "kind": "food",
-    "category": "Starters",
-    "page": 5,
-    "description": "Grilled octopus tentacle with fingerling potatoes confit in olive oil, garlic, rosemary and thyme, then smashed and fried. Topped with a fresh frisée salad, escabeche and olives, with chimichurri.",
+    "category": "Latin Sushi",
+    "price": 18,
+    "description": "Pernil, maduro, spicy cream cheese, chicharrón and pickles.",
     "ingredients": [
-      "Octopus",
-      "Fingerling potatoes",
-      "Olive oil",
-      "Garlic",
-      "Rosemary",
-      "Thyme",
-      "Frisée",
-      "Chimichurri"
+      "Pernil",
+      "Maduro",
+      "Spicy cream cheese",
+      "Chicharrón",
+      "Pickles"
     ],
     "notes": "",
-    "image": "/media/pulpo-al-grill.jpg",
-    "source": "Menu Description"
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-salmon-caribbean-roll",
+    "name": "Salmon Caribbean Roll",
+    "kind": "food",
+    "category": "Latin Sushi",
+    "price": 24,
+    "description": "Avocado, mango, salmon, spicy cream cheese, scallion chives and jalapeño.",
+    "ingredients": [
+      "Avocado",
+      "Mango",
+      "Salmon",
+      "Spicy cream cheese",
+      "Scallion chives",
+      "Jalapeño"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-shrimp-tempura-roll",
+    "name": "Shrimp Tempura Roll",
+    "kind": "food",
+    "category": "Latin Sushi",
+    "price": 22,
+    "description": "Shrimp tempura with avocado, cream cheese and cucumber.",
+    "ingredients": [
+      "Shrimp tempura",
+      "Avocado",
+      "Cream cheese",
+      "Cucumber"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-east-coast-oysters",
     "name": "East Coast Oysters",
     "kind": "food",
     "category": "Raw Bar & Ceviche",
-    "page": 6,
-    "description": "East Coast oysters with cocktail sauce and mignonette (sherry vinegar, cucumber, roasted red peppers and parsley).",
+    "price": 21,
+    "description": "Half dozen East Coast oysters with assorted condiments and mignonette.",
     "ingredients": [
-      "Oysters",
-      "Cocktail sauce",
-      "Sherry vinegar",
-      "Cucumber",
-      "Roasted red pepper",
-      "Parsley"
+      "East Coast oysters",
+      "Assorted condiments",
+      "Mignonette"
     ],
     "notes": "",
     "image": "/media/east-coast-oysters.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-puerto-rican-seafood-salad",
-    "name": "Puerto Rican Seafood Salad",
-    "kind": "food",
-    "category": "Raw Bar & Ceviche",
-    "page": 6,
-    "description": "Clams, mussels, shrimp, calamari and bay scallops marinated in garlic mojo (garlic, cilantro, parsley, lemon, lime and roasted peppers).",
-    "ingredients": [
-      "Clams",
-      "Mussels",
-      "Shrimp",
-      "Calamari",
-      "Bay scallops",
-      "Garlic mojo"
-    ],
-    "notes": "",
-    "image": "/media/puerto-rican-seafood-salad.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-shrimp-cocktail",
-    "name": "Shrimp Cocktail",
-    "kind": "food",
-    "category": "Raw Bar & Ceviche",
-    "page": 6,
-    "description": "Five to six boiled shrimp with horseradish cilantro sauce: red ceviche base, ketchup, sriracha, Worcestershire, lemon juice, Tabasco, coconut milk, cilantro, horseradish, salt and pepper.",
-    "ingredients": [
-      "Boiled shrimp",
-      "Horseradish",
-      "Cilantro",
-      "Ketchup",
-      "Sriracha",
-      "Worcestershire",
-      "Coconut milk"
-    ],
-    "notes": "",
-    "image": "/media/shrimp-cocktail.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-little-neck-clams",
-    "name": "Little Neck Clams",
-    "kind": "food",
-    "category": "Raw Bar & Ceviche",
-    "page": 7,
-    "description": "Half a dozen clams with cocktail sauce and mignonette (sherry vinegar, cucumber, roasted red peppers and parsley).",
-    "ingredients": [
-      "Clams",
-      "Cocktail sauce",
-      "Sherry vinegar",
-      "Cucumber",
-      "Roasted red pepper",
-      "Parsley"
-    ],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-seafood-tower-full",
-    "name": "Seafood Tower — Full",
-    "kind": "food",
-    "category": "Raw Bar & Ceviche",
-    "page": 7,
-    "description": "Six oysters, six clams, two ceviches, six shrimp cocktail and one whole 1.25 lb lobster.",
-    "ingredients": [
-      "Oysters",
-      "Clams",
-      "Ceviche",
-      "Shrimp cocktail",
-      "Whole lobster"
-    ],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-seafood-tower-half",
-    "name": "Seafood Tower — Half",
-    "kind": "food",
-    "category": "Raw Bar & Ceviche",
-    "page": 7,
-    "description": "Three oysters, three clams, one choice of ceviche, three shrimp cocktail and half a lobster.",
-    "ingredients": [
-      "Oysters",
-      "Clams",
-      "Ceviche",
-      "Shrimp cocktail",
-      "Half lobster"
-    ],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-tuna-watermelon-ceviche",
-    "name": "Tuna Watermelon Ceviche",
+    "name": "Tuna & Watermelon Ceviche",
     "kind": "food",
     "category": "Raw Bar & Ceviche",
-    "page": 7,
-    "description": "Small diced tuna and watermelon with a touch of coconut milk, sriracha, cucumber and cilantro.",
+    "price": 24,
+    "description": "Tuna and watermelon in coconut ginger lime, marinated with cilantro and cucumber.",
     "ingredients": [
       "Tuna",
       "Watermelon",
-      "Coconut milk",
-      "Sriracha",
-      "Cucumber",
-      "Cilantro"
+      "Coconut",
+      "Ginger",
+      "Lime",
+      "Cilantro",
+      "Cucumber"
     ],
     "notes": "",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
-    "id": "food-signature-chopped-salad",
-    "name": "Signature Chopped Salad",
+    "id": "food-red-shrimp-ceviche",
+    "name": "Red Shrimp Ceviche",
     "kind": "food",
-    "category": "Salads",
-    "page": 8,
-    "description": "Iceberg lettuce, avocado, bacon, cherry tomatoes, Manchego, corn and onions. Roasted garlic vinaigrette: roasted garlic, sherry vinegar, olive oil and shallots. Chicken, shrimp or steak may be added.",
+    "category": "Raw Bar & Ceviche",
+    "price": 18,
+    "description": "Shrimp with fire roasted tomatoes and red peppers, marinated and topped with fresh avocado.",
     "ingredients": [
-      "Iceberg lettuce",
-      "Avocado",
-      "Bacon",
-      "Cherry tomatoes",
-      "Manchego",
-      "Corn",
-      "Onions",
-      "Roasted garlic vinaigrette"
+      "Shrimp",
+      "Fire roasted tomatoes",
+      "Red peppers",
+      "Avocado"
     ],
     "notes": "",
-    "image": "/media/signature-chopped-salad.jpg",
-    "source": "Menu Description"
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-avocado-salad",
+    "name": "Avocado Salad",
+    "kind": "food",
+    "category": "Salads",
+    "price": 14,
+    "description": "Avocado with baby arugula greens, onions, cherry tomatoes and lemon garlic vinaigrette.",
+    "ingredients": [
+      "Avocado",
+      "Baby arugula",
+      "Onions",
+      "Cherry tomatoes",
+      "Lemon garlic vinaigrette"
+    ],
+    "notes": "Add chicken, shrimp or steak to any salad for $10.",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-caesar-salad",
     "name": "Caesar Salad",
     "kind": "food",
     "category": "Salads",
-    "page": 9,
-    "description": "Romaine and arugula tossed in Caesar dressing (egg yolks, oil, anchovies, parmesan, vinegar, Worcestershire, salt and pepper). Topped with parmesan, roasted cherry tomatoes and toasted baguette. Chicken, shrimp or steak may be added.",
+    "price": 16,
+    "description": "Romaine and arugula lettuce tossed in Caesar dressing.",
     "ingredients": [
       "Romaine",
       "Arugula",
-      "Caesar dressing",
-      "Anchovies",
-      "Parmesan",
-      "Roasted cherry tomatoes",
-      "Toasted baguette"
+      "Caesar dressing"
     ],
-    "notes": "",
+    "notes": "Add chicken, shrimp or steak to any salad for $10. The remaining description is cut off in the supplied photo; confirm additional components with the kitchen.",
     "image": "/media/caesar-salad.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-roast-pork",
-    "name": "Roast Pork",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 9,
-    "description": "Pernil (pork shoulder) served with pigeon pea rice and potato salad (potato, egg, carrots, red onion, green apple, mayo and vinegar).",
-    "ingredients": [
-      "Pork shoulder",
-      "Pigeon pea rice",
-      "Potato salad"
-    ],
-    "notes": "",
-    "image": "/media/churrasco.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-churrasco",
-    "name": "Churrasco",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 10,
-    "description": "Don Coqui-style 10 oz skirt steak served with black bean moro, potato salad and chimichurri.",
-    "ingredients": [
-      "Skirt steak",
-      "Black bean moro",
-      "Potato salad",
-      "Chimichurri"
-    ],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-mofongo-with-shrimp",
-    "name": "Mofongo with Shrimp",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 10,
-    "description": "Mashed green plantains with shrimp, pork crackling and garlic creamy sauce.",
-    "ingredients": [
-      "Green plantain",
-      "Shrimp",
-      "Pork crackling",
-      "Garlic creamy sauce"
-    ],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-rigatoni-pasta",
-    "name": "Rigatoni Pasta",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 10,
-    "description": "Rigatoni with spicy Spanish tomato sauce, Manchego and parmesan; choice of smoked chicken breast or shrimp.",
-    "ingredients": [
-      "Rigatoni",
-      "Spicy Spanish tomato sauce",
-      "Manchego",
-      "Parmesan"
-    ],
-    "notes": "Smoked chicken breast or shrimp is a choice, not both required.",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-oxtail-rabo-guisado",
-    "name": "Oxtail — Rabo Guisado",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 10,
-    "description": "Caribbean braised oxtail in red wine and sofrito sauce, served with white rice, black beans and sweet plantains.",
-    "ingredients": [
-      "Oxtail",
-      "Red wine",
-      "Sofrito",
-      "White rice",
-      "Black beans",
-      "Sweet plantain"
-    ],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-shrimp-al-ajillo",
-    "name": "Shrimp al Ajillo",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 10,
-    "description": "Six sautéed jumbo shrimp in garlic and white wine reduction with butter sauce; served with white rice or fried green plantains.",
-    "ingredients": [
-      "Jumbo shrimp",
-      "Garlic",
-      "White wine",
-      "Butter"
-    ],
-    "notes": "Choose white rice or fried green plantains.",
-    "image": "/media/shrimp-al-ajillo.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-rum-glazed-pork-chop",
     "name": "Rum Glazed Pork Chop",
     "kind": "food",
     "category": "Main Courses",
-    "page": 11,
-    "description": "A 14 oz grilled pork chop brushed with soy sauce, star anise, Bacardi, demi and sugar glaze. Served with creamy mashed potatoes and sautéed garlic spinach.",
+    "price": 34,
+    "description": "Grilled 14 oz pork chop served with creamy mashed potatoes, sautéed garlic spinach and Bacardi rum glaze.",
     "ingredients": [
-      "Pork chop",
-      "Soy sauce",
-      "Star anise",
-      "Bacardi",
-      "Demi",
-      "Sugar",
-      "Mashed potatoes",
-      "Garlic spinach"
+      "14 oz pork chop",
+      "Creamy mashed potatoes",
+      "Garlic spinach",
+      "Bacardi rum glaze"
     ],
     "notes": "",
     "image": "/media/rum-glazed-pork-chop.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-seafood-paella",
-    "name": "Seafood Paella",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 11,
-    "description": "Lobster, shrimp, calamari, black mussels and clams cooked with saffron rice.",
-    "ingredients": [
-      "Lobster",
-      "Shrimp",
-      "Calamari",
-      "Black mussels",
-      "Clams",
-      "Saffron rice"
-    ],
-    "notes": "",
-    "image": "/media/seafood-paella.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-red-snapper",
-    "name": "Red Snapper",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 11,
-    "description": "Whole red snapper with coconut rice and creole sauce. Rice is cooked in sweet coconut milk with vegetables and pineapple, then tossed in toasted sweet coconut shavings.",
-    "ingredients": [
-      "Whole red snapper",
-      "Coconut rice",
-      "Coconut milk",
-      "Vegetables",
-      "Pineapple",
-      "Coconut shavings",
-      "Creole sauce"
-    ],
-    "notes": "",
-    "image": "/media/red-snapper.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-lobster-shrimp-fried-rice",
-    "name": "Lobster & Shrimp Fried Rice",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 12,
-    "description": "A whole 1½ lb Maine lobster with pineapple fried rice and tiger shrimp. Includes mushrooms, maduros, coconut milk and onions.",
-    "ingredients": [
-      "Maine lobster",
-      "Pineapple fried rice",
-      "Tiger shrimp",
-      "Mushrooms",
-      "Maduros",
-      "Coconut milk",
-      "Onions"
-    ],
-    "notes": "",
-    "image": "/media/lobster-shrimp-fried-rice.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-spiced-rum-glaze-grilled-salmon",
-    "name": "Spiced Rum Glaze Grilled Salmon",
+    "name": "Spice Rum Glaze Grilled Salmon",
     "kind": "food",
     "category": "Main Courses",
-    "page": 12,
-    "description": "Grilled salmon brushed with a demi, soy sauce and brown sugar rum glaze. Served with white rice colored green by cilantro and spinach oil, and mango habanero salsa (grilled mango, red onion, cilantro, roasted red pepper, habanero, green bell pepper, sherry vinegar and olive oil).",
+    "price": 36,
+    "description": "Salmon with spiced rum glaze, coconut green rice, mango Scotch bonnet pepper salsa and sautéed spinach.",
     "ingredients": [
       "Salmon",
-      "Rum glaze",
-      "Rice",
-      "Cilantro",
-      "Spinach oil",
-      "Mango habanero salsa"
-    ],
-    "notes": "The PDF names a rum glaze but lists only demi, soy sauce and brown sugar; confirm its full recipe.",
-    "image": "/media/spiced-rum-glaze-grilled-salmon.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-cuban-vegan-beef-picadillo",
-    "name": "Cuban Vegan Beef Picadillo",
-    "kind": "food",
-    "category": "Main Courses",
-    "page": 13,
-    "description": "Beyond Beef cooked Cuban-style with peppers, onions, tomato paste, cilantro, olives and raisins. Served with black bean rice and sweet plantains.",
-    "ingredients": [
-      "Beyond Beef",
-      "Peppers",
-      "Onions",
-      "Tomato paste",
-      "Cilantro",
-      "Olives",
-      "Raisins",
-      "Black bean rice",
-      "Sweet plantain"
+      "Spiced rum glaze",
+      "Coconut green rice",
+      "Mango Scotch bonnet pepper salsa",
+      "Sautéed spinach"
     ],
     "notes": "",
-    "image": "/media/cuban-vegan-beef-picadillo.jpg",
-    "source": "Menu Description"
+    "image": "/media/spiced-rum-glaze-grilled-salmon.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-ropa-vieja",
     "name": "Ropa Vieja",
     "kind": "food",
     "category": "Main Courses",
-    "page": 13,
-    "description": "Slow-roasted, shredded short rib beef. Braised with demi, tomato paste, water or beef stock, carrots, onions, celery, rosemary and thyme; then cooked with onions and peppers. Served with moro (black bean rice).",
+    "price": 32,
+    "description": "Slow roast short rib beef ropa vieja with sofrito, peppers, onions, maduros and moro rice.",
     "ingredients": [
       "Short rib beef",
-      "Demi",
-      "Tomato paste",
-      "Onions",
+      "Sofrito",
       "Peppers",
-      "Black bean rice"
+      "Onions",
+      "Maduros",
+      "Moro rice"
     ],
     "notes": "",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-filet-mignon-lomo-saltado",
+    "name": "Filet Mignon Lomo Saltado",
+    "kind": "food",
+    "category": "Main Courses",
+    "price": 34,
+    "description": "Filet mignon with sautéed crispy sweet potatoes, scallions and cilantro in a Chino Latino Peruvian style sauce, served with white rice.",
+    "ingredients": [
+      "Filet mignon",
+      "Crispy sweet potatoes",
+      "Scallions",
+      "Cilantro",
+      "Chino Latino Peruvian style sauce",
+      "White rice"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-red-snapper",
+    "name": "Red Snapper",
+    "kind": "food",
+    "category": "Main Courses",
+    "price": 42,
+    "description": "Crispy whole red snapper served with coconut rice and Creole salsa.",
+    "ingredients": [
+      "Whole red snapper",
+      "Coconut rice",
+      "Creole salsa"
+    ],
+    "notes": "",
+    "image": "/media/red-snapper.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-roast-pork",
+    "name": "Roast Pork",
+    "kind": "food",
+    "category": "Main Courses",
+    "price": 36,
+    "description": "Pernil: marinated roasted pork served with pigeon pea rice, potato salad and garlic mojo.",
+    "ingredients": [
+      "Roasted pork",
+      "Pigeon pea rice",
+      "Potato salad",
+      "Garlic mojo"
+    ],
+    "notes": "",
+    "image": "/media/churrasco.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false,
+    "aliases": [
+      "Pernil"
+    ]
+  },
+  {
+    "id": "food-seafood-paella",
+    "name": "Seafood Paella",
+    "kind": "food",
+    "category": "Main Courses",
+    "price": 38,
+    "description": "Shrimp, calamari, P.E.I. mussels, clams, saffron rice, piquillo pepper escabeche and bay scallop.",
+    "ingredients": [
+      "Shrimp",
+      "Calamari",
+      "P.E.I. mussels",
+      "Clams",
+      "Saffron rice",
+      "Piquillo pepper escabeche",
+      "Bay scallop"
+    ],
+    "notes": "Add half lobster for $17.",
+    "image": "/media/seafood-paella.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-rigatoni-pasta",
+    "name": "Rigatoni Pasta",
+    "kind": "food",
+    "category": "Main Courses",
+    "price": 32,
+    "description": "Rigatoni with spicy Spanish tomato sauce and Manchego cheese; choice of smoked chicken or shrimp.",
+    "ingredients": [
+      "Rigatoni",
+      "Spicy Spanish tomato sauce",
+      "Manchego cheese",
+      "Smoked chicken or shrimp"
+    ],
+    "notes": "Choose smoked chicken or shrimp.",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-lobster-shrimp-fried-rice",
+    "name": "Lobster & Shrimp Chino Latino Rice",
+    "kind": "food",
+    "category": "Main Courses",
+    "price": 54,
+    "description": "Whole Maine lobster, pineapple, tiger shrimp, vegetables, sweet plantain and mushrooms with Chino Latino rice.",
+    "ingredients": [
+      "Whole Maine lobster",
+      "Pineapple",
+      "Tiger shrimp",
+      "Vegetables",
+      "Sweet plantain",
+      "Mushrooms",
+      "Chino Latino rice"
+    ],
+    "notes": "",
+    "image": "/media/lobster-shrimp-fried-rice.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-cuban-vegan-beef-picadillo",
+    "name": "Cuban Vegan Beef Picadillo",
+    "kind": "food",
+    "category": "Main Courses",
+    "price": 28,
+    "description": "Impossible meat, Cuban style picadillo served with black beans, white rice and maduros.",
+    "ingredients": [
+      "Impossible meat",
+      "Black beans",
+      "White rice",
+      "Maduros"
+    ],
+    "notes": "",
+    "image": "/media/cuban-vegan-beef-picadillo.jpg",
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-jerk-chicken",
     "name": "Jerk Chicken",
     "kind": "food",
     "category": "Main Courses",
-    "page": 14,
-    "description": "Roast jerk chicken with red beans, white rice and sweet plantains. Jerk seasoning: garlic, onion, thyme, allspice, ginger, cayenne, cinnamon, nutmeg, smoked paprika, cloves, white pepper and dark brown sugar.",
+    "price": 25,
+    "description": "Roasted jerk chicken served with rice, red beans and maduros.",
     "ingredients": [
-      "Jerk chicken",
+      "Roasted jerk chicken",
+      "Rice",
       "Red beans",
-      "White rice",
-      "Sweet plantain"
+      "Maduros"
     ],
     "notes": "",
     "image": "/media/jerk-chicken.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
-    "id": "food-australian-lamb-chops",
-    "name": "Australian Lamb Chops",
+    "id": "food-oxtail-rabo-guisado",
+    "name": "Oxtail",
     "kind": "food",
-    "category": "From the Grill",
-    "page": 14,
-    "description": "Three marinated Australian lamb chops with sweet mashed potato and spinach.",
+    "category": "Main Courses",
+    "price": 38,
+    "description": "Rabo guisado: Caribbean braised oxtail in red wine and sofrito sauce, served with white rice, black beans and sweet plantains.",
     "ingredients": [
-      "Lamb chops",
-      "Sweet mashed potato",
-      "Spinach"
+      "Oxtail",
+      "Red wine",
+      "Sofrito sauce",
+      "White rice",
+      "Black beans",
+      "Sweet plantains"
     ],
     "notes": "",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false,
+    "aliases": [
+      "Rabo Guisado"
+    ]
   },
   {
-    "id": "food-free-range-citrus-chicken-breast",
-    "name": "Free Range Citrus Chicken Breast",
+    "id": "food-churrasco",
+    "name": "Skirt Steak",
     "kind": "food",
     "category": "From the Grill",
-    "page": 14,
-    "description": "Free-range citrus chicken breast with mashed potato and spinach, topped with demi glaze.",
+    "price": 46,
+    "description": "Churrasco: grilled skirt steak, black bean rice, potato salad and chimichurri sauce.",
     "ingredients": [
-      "Citrus chicken breast",
-      "Mashed potatoes",
-      "Spinach",
-      "Demi glaze"
+      "Skirt steak",
+      "Black bean rice",
+      "Potato salad",
+      "Chimichurri sauce"
     ],
     "notes": "",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false,
+    "aliases": [
+      "Churrasco"
+    ]
   },
   {
     "id": "food-bistec-encebollado",
-    "name": "Bistec Encebollado",
+    "name": "Steak and Onions",
     "kind": "food",
     "category": "From the Grill",
-    "page": 14,
-    "description": "A 10 oz NY strip steak and onions served with white rice, maduros and beans.",
+    "price": 38,
+    "description": "Bistec encebollado: 10 oz New York strip steak with caramelized onions, maduros, rice and beans.",
     "ingredients": [
-      "NY strip steak",
-      "Onions",
-      "White rice",
+      "10 oz New York strip steak",
+      "Caramelized onions",
       "Maduros",
+      "Rice",
       "Beans"
     ],
     "notes": "",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false,
+    "aliases": [
+      "Bistec Encebollado"
+    ]
   },
   {
     "id": "food-prime-black-angus-ny-strip",
-    "name": "Prime Black Angus NY Strip",
+    "name": "14 oz Prime Black Angus Sirloin Steak",
     "kind": "food",
     "category": "From the Grill",
-    "page": 14,
-    "description": "A 14 oz Prime Black Angus NY strip served with asparagus and mushroom chimichurri sauce.",
+    "price": 52,
+    "description": "Prime Black Angus sirloin steak with wild mushroom chimichurri and asparagus.",
     "ingredients": [
-      "NY strip steak",
-      "Asparagus",
-      "Mushroom chimichurri"
+      "14 oz Prime Black Angus sirloin steak",
+      "Wild mushroom chimichurri",
+      "Asparagus"
     ],
     "notes": "",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-jumbo-shrimp-criollo",
-    "name": "Jumbo Shrimp Criollo",
+    "name": "Grilled Jumbo Shrimp",
     "kind": "food",
     "category": "From the Grill",
-    "page": 14,
-    "description": "Jumbo shrimp with spinach, asparagus, white rice and an enchilada sauce.",
+    "price": 34,
+    "description": "Grilled jumbo shrimp with tomato salsa criolla, saffron and asparagus rice.",
     "ingredients": [
       "Jumbo shrimp",
-      "Spinach",
-      "Asparagus",
-      "White rice",
-      "Enchilada sauce"
+      "Tomato salsa criolla",
+      "Saffron",
+      "Asparagus rice"
     ],
-    "notes": "The grill section says “enchilada sauce”; the sauce section lists “Enchilado sauce.” Confirm the current name.",
+    "notes": "",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-australian-lamb-chops",
+    "name": "Grilled Marinated Lamb Chops",
+    "kind": "food",
+    "category": "From the Grill",
+    "price": 48,
+    "description": "Marinated lamb chops with fresh mint, cilantro, olive chimichurri and sweet potato mash.",
+    "ingredients": [
+      "Lamb chops",
+      "Fresh mint",
+      "Cilantro",
+      "Olive chimichurri",
+      "Sweet potato mash"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-don-coqui-guava-chipotle-bbq-sauce",
     "name": "Don Coqui Guava Chipotle BBQ Sauce",
     "kind": "food",
     "category": "Sauces",
-    "page": 15,
-    "description": "Guava cooked down and mixed with smoky BBQ.",
+    "price": null,
+    "description": "Don Coqui Guava Chipotle BBQ Sauce.",
     "ingredients": [
       "Guava",
-      "Smoky BBQ"
+      "Chipotle",
+      "BBQ sauce"
     ],
-    "notes": "The title says chipotle, but the ingredient description does not list it. Confirm the complete recipe.",
+    "notes": "Simple grill includes one sauce; extra sauce $2. The photo names this sauce without a full recipe.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-wild-mushroom-truffle-chimichurri",
     "name": "Wild Mushroom Truffle Chimichurri",
     "kind": "food",
     "category": "Sauces",
-    "page": 15,
-    "description": "Oyster, shiitake and cremini mushrooms roasted in olive oil, then mixed with chimichurri (parsley, cilantro, roasted red peppers, sherry, olive oil, salt and pepper).",
+    "price": null,
+    "description": "Wild Mushroom Truffle Chimichurri.",
     "ingredients": [
-      "Oyster mushroom",
-      "Shiitake",
-      "Cremini",
-      "Olive oil",
+      "Wild mushroom",
+      "Truffle",
       "Chimichurri"
     ],
-    "notes": "Truffle appears in the title; the PDF does not specify its form or quantity.",
+    "notes": "Simple grill includes one sauce; extra sauce $2. The photo names this sauce without a full recipe.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
-    "id": "food-red-wine-sofrito-steak-sauce",
-    "name": "Red Wine Sofrito Steak Sauce",
+    "id": "food-saffron-garlic-butter",
+    "name": "Saffron Garlic Butter",
     "kind": "food",
     "category": "Sauces",
-    "page": 15,
-    "description": "Red wine with red and green bell peppers, onion, garlic and cilantro.",
+    "price": null,
+    "description": "Saffron Garlic Butter.",
     "ingredients": [
-      "Red wine",
-      "Bell peppers",
-      "Onion",
+      "Saffron",
       "Garlic",
-      "Cilantro"
+      "Butter"
     ],
-    "notes": "",
+    "notes": "Simple grill includes one sauce; extra sauce $2. The photo names this sauce without a full recipe.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-black-garlic-compound-butter",
     "name": "Black Garlic Compound Butter",
     "kind": "food",
     "category": "Sauces",
-    "page": 15,
-    "description": "Butter mixed with black garlic, shallots, lemon zest, rosemary and thyme. Black garlic is sweet and mild.",
+    "price": null,
+    "description": "Black Garlic Compound Butter.",
     "ingredients": [
-      "Butter",
       "Black garlic",
-      "Shallots",
-      "Lemon zest",
-      "Rosemary",
-      "Thyme"
+      "Butter"
     ],
-    "notes": "Listed as “Black Butter Compound Butter” in the PDF.",
+    "notes": "Simple grill includes one sauce; extra sauce $2. The photo names this sauce without a full recipe.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
-    "id": "food-enchilado-sauce",
-    "name": "Enchilado Sauce",
+    "id": "food-red-wine-sofrito-steak-sauce",
+    "name": "Red Wine Sauce",
     "kind": "food",
     "category": "Sauces",
-    "page": 15,
-    "description": "Sofrito creole sauce with a touch of chipotle.",
+    "price": null,
+    "description": "Red Wine Sauce.",
     "ingredients": [
-      "Sofrito creole sauce",
-      "Chipotle"
+      "Red wine sauce"
     ],
-    "notes": "",
+    "notes": "Simple grill includes one sauce; extra sauce $2. The photo names this sauce without a full recipe.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-mashed-potatoes",
     "name": "Mashed Potatoes",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Listed side; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-saut-ed-vegetables",
-    "name": "Sautéed Vegetables",
-    "kind": "food",
-    "category": "Sides",
-    "page": 16,
-    "description": "Spinach and asparagus.",
+    "price": null,
+    "description": "Mashed Potatoes.",
     "ingredients": [
-      "Spinach",
-      "Asparagus"
+      "Potatoes"
     ],
-    "notes": "",
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-fried-green-plantains-tostones",
-    "name": "Fried Green Plantains — Tostones",
+    "name": "Tostones Garlic Mojo",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Fried green plantains.",
+    "price": null,
+    "description": "Tostones Garlic Mojo.",
     "ingredients": [
-      "Green plantain"
+      "Tostones",
+      "Garlic mojo"
     ],
-    "notes": "",
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-sweet-plantains-maduros",
-    "name": "Sweet Plantains — Maduros",
+    "name": "Maduros",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Sweet plantains.",
+    "price": null,
+    "description": "Maduros.",
     "ingredients": [
-      "Sweet plantain"
+      "Sweet plantains"
     ],
-    "notes": "",
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-mac-and-cheese",
-    "name": "Mac and Cheese",
-    "kind": "food",
-    "category": "Sides",
-    "page": 16,
-    "description": "Lobster may be added; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-mac-and-cheese-with-lobster",
-    "name": "Mac and Cheese with Lobster",
-    "kind": "food",
-    "category": "Sides",
-    "page": 16,
-    "description": "Lobster add-on to mac and cheese; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-pigeon-pea-rice",
     "name": "Pigeon Pea Rice",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Listed side; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
+    "price": null,
+    "description": "Pigeon Pea Rice.",
+    "ingredients": [
+      "Pigeon peas",
+      "Rice"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-white-rice",
     "name": "White Rice",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Listed side.",
-    "ingredients": [],
-    "notes": "",
+    "price": null,
+    "description": "White Rice.",
+    "ingredients": [
+      "White rice"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-red-beans",
     "name": "Red Beans",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Red bean side; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
+    "price": null,
+    "description": "Red Beans.",
+    "ingredients": [
+      "Red beans"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-black-beans",
     "name": "Black Beans",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Black bean side; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-yuca-mash-with-manchego",
-    "name": "Yuca Mash with Manchego",
-    "kind": "food",
-    "category": "Sides",
-    "page": 16,
-    "description": "Yuca mash with Manchego cheese.",
+    "price": null,
+    "description": "Black Beans.",
     "ingredients": [
-      "Yuca",
-      "Manchego"
+      "Black beans"
     ],
-    "notes": "",
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
-    "id": "food-truffle-french-fries",
-    "name": "Truffle French Fries",
+    "id": "food-mac-and-cheese",
+    "name": "Mac & Cheese",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Listed side; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
-    "image": "",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-potato-salad",
-    "name": "Potato Salad",
-    "kind": "food",
-    "category": "Sides",
-    "page": 16,
-    "description": "Potato, egg, carrots, red onion, green apple, mayo and vinegar (recipe supplied with Roast Pork).",
+    "price": null,
+    "description": "Mac & Cheese.",
     "ingredients": [
-      "Potato",
-      "Egg",
-      "Carrots",
-      "Red onion",
-      "Green apple",
-      "Mayo",
-      "Vinegar"
+      "Macaroni",
+      "Cheese"
     ],
-    "notes": "",
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-yuca-fries",
     "name": "Yuca Fries",
     "kind": "food",
     "category": "Sides",
-    "page": 16,
-    "description": "Listed side; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
+    "price": null,
+    "description": "Yuca Fries.",
+    "ingredients": [
+      "Yuca"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-yuca-mash-with-manchego",
+    "name": "Yuca Mashed au Gratin with Manchego Cheese",
+    "kind": "food",
+    "category": "Sides",
+    "price": null,
+    "description": "Yuca Mashed au Gratin with Manchego Cheese.",
+    "ingredients": [
+      "Yuca",
+      "Manchego cheese"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-truffle-french-fries",
+    "name": "Truffle French Fries",
+    "kind": "food",
+    "category": "Sides",
+    "price": null,
+    "description": "Truffle French Fries.",
+    "ingredients": [
+      "Potatoes",
+      "Truffle"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-potato-salad",
+    "name": "Potato Salad",
+    "kind": "food",
+    "category": "Sides",
+    "price": null,
+    "description": "Potato Salad.",
+    "ingredients": [
+      "Potatoes"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-wild-mushrooms",
-    "name": "Wild Mushrooms",
+    "name": "Wild Mushroom Sauté",
     "kind": "food",
     "category": "Sides",
-    "page": 17,
-    "description": "Listed side; full recipe not supplied.",
-    "ingredients": [],
-    "notes": "",
+    "price": null,
+    "description": "Wild Mushroom Sauté.",
+    "ingredients": [
+      "Wild mushrooms"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
-    "id": "food-flan-brul",
-    "name": "Flan Brulé",
+    "id": "food-sauteed-garlic-spinach",
+    "name": "Sautéed Garlic Spinach",
+    "kind": "food",
+    "category": "Sides",
+    "price": null,
+    "description": "Sautéed Garlic Spinach.",
+    "ingredients": [
+      "Spinach",
+      "Garlic"
+    ],
+    "notes": "The photo lists this side without a complete recipe or price. White rice may be served with red or black beans.",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-pumpkin-tres-leches",
+    "name": "Pumpkin Tres Leches",
     "kind": "food",
     "category": "Desserts",
-    "page": 17,
-    "description": "Vanilla flan made with condensed, evaporated and whole milk. Served with strawberries, raspberries and blackberries, topped with white sugar that is torched.",
+    "price": 18,
+    "description": "Pumpkin tres leches topped with whipped cream and the house blend of cinnamon spice.",
     "ingredients": [
-      "Condensed milk",
-      "Evaporated milk",
-      "Whole milk",
-      "Berries",
-      "White sugar"
+      "Pumpkin tres leches",
+      "Whipped cream",
+      "Cinnamon spice blend"
     ],
-    "notes": "The PDF does not supply the full custard recipe; do not assume egg-free.",
-    "image": "/media/flan-brul.jpg",
-    "source": "Menu Description"
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-three-layer-chocolate",
+    "name": "Three Layer Chocolate",
+    "kind": "food",
+    "category": "Desserts",
+    "price": 16,
+    "description": "Three layer chocolate with warm white vanilla chocolate sauce.",
+    "ingredients": [
+      "Three layer chocolate cake",
+      "Warm white vanilla chocolate sauce"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
     "id": "food-flan-de-coco",
-    "name": "Flan de Coco",
+    "name": "Coconut Flan",
     "kind": "food",
     "category": "Desserts",
-    "page": 17,
-    "description": "Vegan coconut ice cream, white chocolate and coconut mousse, served in a coconut on a plate with ice.",
+    "price": 15,
+    "description": "Coconut flan with coconut ice cream, white chocolate, coconut mousse and coco rallado (grated coconut).",
     "ingredients": [
+      "Coconut flan",
       "Coconut ice cream",
       "White chocolate",
-      "Coconut mousse"
+      "Coconut mousse",
+      "Grated coconut"
     ],
-    "notes": "Only the ice cream is explicitly called vegan. Do not describe the entire dessert as vegan without confirmation.",
+    "notes": "",
     "image": "/media/flan-de-coco.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false,
+    "aliases": [
+      "Flan de Coco"
+    ]
   },
   {
     "id": "food-tres-leches",
     "name": "Tres Leches",
     "kind": "food",
     "category": "Desserts",
-    "page": 18,
-    "description": "Vanilla cake soaked in milk, topped with Italian meringue.",
+    "price": 15,
+    "description": "Sponge cake soaked in three milks: evaporated milk, condensed milk and whole milk.",
     "ingredients": [
-      "Vanilla cake",
-      "Milk soak",
-      "Italian meringue"
+      "Sponge cake",
+      "Evaporated milk",
+      "Condensed milk",
+      "Whole milk"
     ],
-    "notes": "The PDF repeats condensed milk in its three-milk list. Confirm the exact milk recipe.",
+    "notes": "",
     "image": "/media/tres-leches.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
   },
   {
-    "id": "food-passion-fruit-tres-leches",
-    "name": "Passion Fruit Tres Leches",
+    "id": "food-coconut-rum-cake",
+    "name": "Coconut Rum Cake",
     "kind": "food",
     "category": "Desserts",
-    "page": 18,
-    "description": "Vanilla cake with a milk soak, passion fruit coulis and passion fruit whipped cream.",
+    "price": 16,
+    "description": "Coconut rum cake with spiced rum syrup and coconut cream, served with vanilla ice cream.",
     "ingredients": [
-      "Vanilla cake",
-      "Milk soak",
-      "Passion fruit coulis",
-      "Passion fruit whipped cream"
+      "Coconut rum cake",
+      "Spiced rum syrup",
+      "Coconut cream",
+      "Vanilla ice cream"
     ],
-    "notes": "The PDF repeats condensed milk in its three-milk list. Confirm the exact milk recipe.",
+    "notes": "",
     "image": "",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-guava-bread-pudding",
+    "name": "Guava Bread Pudding",
+    "kind": "food",
+    "category": "Desserts",
+    "price": 15,
+    "description": "Guava bread pudding with dulce de leche sauce and vanilla ice cream.",
+    "ingredients": [
+      "Guava bread pudding",
+      "Dulce de leche sauce",
+      "Vanilla ice cream"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-ice-cream",
+    "name": "Ice Cream",
+    "kind": "food",
+    "category": "Desserts",
+    "price": 10,
+    "description": "Choice of vanilla, chocolate, strawberry or vegan ice cream.",
+    "ingredients": [
+      "Vanilla ice cream",
+      "Chocolate ice cream",
+      "Strawberry ice cream",
+      "Vegan ice cream"
+    ],
+    "notes": "These are flavor choices; confirm the vegan flavor and ingredients.",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": false
+  },
+  {
+    "id": "food-spicy-tuna-avocado-montaditos",
+    "name": "Spicy Tuna & Avocado Montaditos",
+    "kind": "food",
+    "category": "Specials · Starters",
+    "price": 19,
+    "description": "Spicy tuna and avocado on crispy concón rice cakes.",
+    "ingredients": [
+      "Spicy tuna",
+      "Avocado",
+      "Crispy concón rice cakes"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": true
+  },
+  {
+    "id": "food-baby-back-ribs",
+    "name": "Baby Back Ribs",
+    "kind": "food",
+    "category": "Specials · Starters",
+    "price": 19,
+    "description": "Baby back ribs with guava chipotle smoked BBQ sauce and sweet potato.",
+    "ingredients": [
+      "Baby back ribs",
+      "Guava chipotle smoked BBQ sauce",
+      "Sweet potato"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": true
+  },
+  {
+    "id": "food-puerto-rican-pernil-empanadas",
+    "name": "Puerto Rican Pernil Empanadas",
+    "kind": "food",
+    "category": "Specials · Starters",
+    "price": 12,
+    "description": "Empanadas stuffed with roasted pork, caramelized onions and maduros.",
+    "ingredients": [
+      "Empanada pastry",
+      "Roasted pork",
+      "Caramelized onions",
+      "Maduros"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": true
+  },
+  {
+    "id": "food-filet-mignon-wild-mushroom-taquitos",
+    "name": "Filet Mignon & Wild Mushroom Taquitos",
+    "kind": "food",
+    "category": "Specials · Starters",
+    "price": 22,
+    "description": "Filet mignon and wild mushroom taquitos with truffle cheese.",
+    "ingredients": [
+      "Filet mignon",
+      "Wild mushroom",
+      "Truffle cheese",
+      "Taquitos"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": true
+  },
+  {
+    "id": "food-havana-chicken",
+    "name": "Havana Chicken",
+    "kind": "food",
+    "category": "Specials · Main Courses",
+    "price": 25,
+    "description": "Marinated half chicken served with black beans, maduros, avocado and Cuban garlic mojito.",
+    "ingredients": [
+      "Marinated half chicken",
+      "Black beans",
+      "Maduros",
+      "Avocado",
+      "Cuban garlic mojito"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": true
+  },
+  {
+    "id": "food-lobster-pasta",
+    "name": "Lobster Pasta",
+    "kind": "food",
+    "category": "Specials · Main Courses",
+    "price": 56,
+    "description": "Black fresh linguini with whole lobster and shrimp in a saffron brandy cream sauce and asparagus.",
+    "ingredients": [
+      "Black fresh linguini",
+      "Whole lobster",
+      "Shrimp",
+      "Saffron brandy cream sauce",
+      "Asparagus"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": true
+  },
+  {
+    "id": "food-prime-porterhouse-steak",
+    "name": "36 oz Prime Porter House Steak",
+    "kind": "food",
+    "category": "Specials · Main Courses",
+    "price": 155,
+    "description": "36 oz prime porter house steak with black garlic beef tallow, served with lobster and corn potato mashed, and spinach al ajillo.",
+    "ingredients": [
+      "36 oz prime porter house steak",
+      "Black garlic beef tallow",
+      "Lobster",
+      "Corn potato mash",
+      "Spinach al ajillo"
+    ],
+    "notes": "Add jumbo shrimp for $18. Side wording follows the supplied specials menu; confirm the presentation with the kitchen.",
+    "image": "",
+    "source": "Current restaurant menu photo",
+    "special": true
   },
   {
     "id": "food-dulce-de-leche-cheesecake",
-    "name": "Dulce de Leche Cheesecake",
+    "name": "Dulce de Leche Cheese Cake",
     "kind": "food",
-    "category": "Desserts",
-    "page": 18,
-    "description": "Cheesecake made with cream cheese, eggs, sugar and milk. Served with berries and dulce de leche liquor sauce.",
+    "category": "Specials · Dessert",
+    "price": 15,
+    "description": "Dulce de leche cheese cake with mixed berries.",
     "ingredients": [
-      "Cream cheese",
-      "Eggs",
-      "Sugar",
-      "Milk",
-      "Berries",
-      "Dulce de leche liquor sauce"
+      "Dulce de leche cheese cake",
+      "Mixed berries"
     ],
     "notes": "",
     "image": "/media/dulce-de-leche-cheesecake.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-flourless-chocolate-cake",
-    "name": "Flourless Chocolate Cake",
-    "kind": "food",
-    "category": "Desserts",
-    "page": 19,
-    "description": "Flourless chocolate cake served with strawberry ice cream and chocolate sauce.",
-    "ingredients": [
-      "Flourless chocolate cake",
-      "Strawberry ice cream",
-      "Chocolate sauce"
-    ],
-    "notes": "Marked G.F. in the PDF; confirm complete ingredients and cross-contact with the kitchen.",
-    "image": "/media/flourless-chocolate-cake.jpg",
-    "source": "Menu Description"
-  },
-  {
-    "id": "food-churros",
-    "name": "Churros",
-    "kind": "food",
-    "category": "Desserts",
-    "page": 20,
-    "description": "Eighteen churros (flour, eggs and sugar) on a wooden tree, served with dulce de leche sauce, eggnog, chocolate sauce and berries.",
-    "ingredients": [
-      "Flour",
-      "Eggs",
-      "Sugar",
-      "Dulce de leche sauce",
-      "Eggnog",
-      "Chocolate sauce",
-      "Berries"
-    ],
-    "notes": "",
-    "image": "/media/churros.jpg",
-    "source": "Menu Description"
+    "source": "Current restaurant menu photo",
+    "special": true
   },
   {
     "id": "drink-coquito-old-fashioned",
@@ -2524,5 +2722,62 @@
     "method": "",
     "notes": "Menu photo supplies no measurements. Confirm the house quantities, glass and method with the bar.",
     "raw": ""
+  },
+  {
+    "id": "drink-espresso",
+    "name": "Espresso",
+    "kind": "drink",
+    "category": "Coffee & Tea",
+    "price": 3,
+    "description": "Single or double espresso.",
+    "ingredients": [
+      "Espresso"
+    ],
+    "notes": "Single $3; double $4.",
+    "image": "",
+    "source": "Current dessert menu photo"
+  },
+  {
+    "id": "drink-assorted-tea",
+    "name": "Assorted Tea",
+    "kind": "drink",
+    "category": "Coffee & Tea",
+    "price": 3,
+    "description": "Assorted tea.",
+    "ingredients": [
+      "Tea"
+    ],
+    "notes": "Confirm available tea varieties.",
+    "image": "",
+    "source": "Current dessert menu photo"
+  },
+  {
+    "id": "drink-coffee",
+    "name": "Coffee",
+    "kind": "drink",
+    "category": "Coffee & Tea",
+    "price": 4,
+    "description": "Coffee.",
+    "ingredients": [
+      "Coffee"
+    ],
+    "notes": "",
+    "image": "",
+    "source": "Current dessert menu photo"
+  },
+  {
+    "id": "drink-latte",
+    "name": "Latte",
+    "kind": "drink",
+    "category": "Coffee & Tea",
+    "price": 5,
+    "description": "Latte.",
+    "ingredients": [
+      "Espresso",
+      "Milk"
+    ],
+    "notes": "Milk type and preparation are not specified in the photo.",
+    "image": "",
+    "source": "Current dessert menu photo"
   }
 ]
